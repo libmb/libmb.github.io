@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog</title>
+    <title>Shelters House</title>
     <link>http://libmb.github.io/index.xml</link>
-    <description>Recent content on blog</description>
+    <description>Recent content on Shelters House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2016 17:49:56 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://libmb.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>post2</title>
-      <link>http://libmb.github.io/post/post2/</link>
-      <pubDate>Sat, 31 Dec 2016 17:49:56 -0700</pubDate>
+      <title>Cover image showcase</title>
+      <link>http://libmb.github.io/2016/12/cover-image-showcase/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://libmb.github.io/post/post2/</guid>
-      <description>&lt;p&gt;post 2 post 2&lt;/p&gt;
+      <guid>http://libmb.github.io/2016/12/cover-image-showcase/</guid>
+      <description>&lt;p&gt;Post 2 post 2 test&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>http://libmb.github.io/post/test/</link>
-      <pubDate>Sat, 31 Dec 2016 17:29:02 -0700</pubDate>
+      <title>Testing</title>
+      <link>http://libmb.github.io/2016/12/testing/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://libmb.github.io/post/test/</guid>
+      <guid>http://libmb.github.io/2016/12/testing/</guid>
       <description>&lt;p&gt;TEST TEST TEST&lt;/p&gt;
 </description>
     </item>
