@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://libmb.github.io/2016/12/cover-image-showcase/</loc>
+    <loc>https://libmb.github.io/2016/12/cover-image-showcase/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/2016/12/testing/</loc>
+    <loc>https://libmb.github.io/2016/12/testing/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/categories/</loc>
+    <loc>https://libmb.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/tags/cover-image/</loc>
-    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://libmb.github.io/categories/features/</loc>
+    <loc>https://libmb.github.io/tags/cover-image/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/post/</loc>
+    <loc>https://libmb.github.io/categories/features/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/</loc>
+    <loc>https://libmb.github.io/post/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/tags/</loc>
+    <loc>https://libmb.github.io/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://libmb.github.io/categories/tranquilpeak/</loc>
+    <loc>https://libmb.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://libmb.github.io/categories/tranquilpeak/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
