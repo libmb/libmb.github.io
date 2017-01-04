@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-family: 'Playfair Display', serif;
   -webkit-font-smoothing: antialiased;
   font-size: inherit;
   color: #000;
@@ -77,8 +77,8 @@ header.site {
 }
 
 header.site .title {
-  font-family: 'Open Sans', cursive;
-  font-size: 2rem;
+  font-family: 'Lobster', sans-serif;
+  font-size: 4rem;
 }
 
 header.site .title a {
