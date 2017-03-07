@@ -6,8 +6,224 @@
     <description>Recent content in Posts on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://libmb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hack the Planet</title>
+      <link>https://libmb.github.io/post/2017_03_06/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_06/</guid>
+      <description>&lt;p&gt;HACK THE PLANET WAS SO MUCH FUN.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/hacktheplanet.png&#34; alt=&#34;Logo for Hack the Planet&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/me.jpg&#34; alt=&#34;Selfie&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So Saturday I participated in my FIRST EVER HACKATHON. It was also the first ever gSchool hackathon. The event started around 8:30, but I showed up early to get put into a team. Since I&amp;rsquo;m still new to this world, and the event wanted to encourage cross cohort/location collaboration- I decided to go in as a single and get paired up with a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/team.jpg&#34; alt=&#34;Group Pic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And it worked out really great! Look at this crew. Molly is in g46 with me, two teammates are in g41 (about a month ahead of us), and one team member is a data science student. We were pretty well rounded.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/molly.jpg&#34; alt=&#34;Molly and I&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After everyone was grouped up- we got the rules from Josh! Goal was to use a NASA API and make a web app&amp;ndash; they amended this later to be any API (because reasons I don&amp;rsquo;t know..?).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/rules.jpg&#34; alt=&#34;Josh giving rules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At 9:30 we got started. We brainstormed a bunch of ideas until one clicked. Molly had taken a meteorology class in undergrad, and her teacher watched the forecast for hail. He would collect it and make margaritas- according to him they make the best because they have ozone in them. Our idea- Hail Ya! was born.&lt;/p&gt;
+
+&lt;p&gt;The concept was to pull weather data- and plan a margarita party around forecasted hail!&lt;/p&gt;
+
+&lt;p&gt;First hiccup was that there was no hail forecasted in the US for, like, ever. Winter? SO we switched gears-  a web app that would pull 1. your location and 2. the weather forecast. We would pull the precipitation type and tell you what kind of drink to make based on what &amp;ldquo;natural&amp;rdquo; ingredients you could use!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/diagram.jpg&#34; alt=&#34;whiteboard planning&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We split off- and I started working on design. With the time crunch, I decided to go with &lt;em&gt;what I knew&lt;/em&gt; and so you can see- it mirrors what I created for this blog!:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/hailcomp.jpg&#34; alt=&#34;picture of computer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created 4 recipes based on the results for rain, snow, sun and the ultimate goal: hail!&lt;/p&gt;
+
+&lt;p&gt;At 1:30 (pizza was delivered at noon), I wrapped up the design pieces and started collaborating on the CSS/HTML pages. At 3pm, we had finished our forms and layout.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/screenform.png&#34; alt=&#34;Finished form&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/screenresult.png&#34; alt=&#34;Finished result page&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it was crunch time. Submission was due at 4:30 and we were struggling to get the last functions working.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/struggle.jpg&#34; alt=&#34;struggles&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With minutes left we finished, and with seconds left we cleaned up our merge files and pushed our product to Github!&lt;/p&gt;
+
+&lt;p&gt;Then it was time to present- we were up first, which was actually awesome. I don&amp;rsquo;t have a picture of us, but I do have one of the team that won (they did AWESOME):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/present.jpg&#34; alt=&#34;Winning team presentation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seriously everyone did awesome. It was great to sit back and see what everyone had created- what they came up with and how they executed it! There wasn&amp;rsquo;t a single bad project.&lt;/p&gt;
+
+&lt;p&gt;We didn&amp;rsquo;t win, but I wouldn&amp;rsquo;t have changed anything. I had a great time with my team. I take away this: TIME FLIES SO FAST. I can&amp;rsquo;t believe we were there, seriously working, for 8 hours. But I also can&amp;rsquo;t believe what we were able to accomplish either.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m excited for the next round- and to find a Hackathon I can enter with Zac.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To end, I slept over 10 hours Saturday night.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another week goes by!</title>
+      <link>https://libmb.github.io/post/2017_03_05/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_05/</guid>
+      <description>&lt;p&gt;SO MANY PHOTOS IN THIS POST&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/dognight.jpg&#34; alt=&#34;Insert Random Dog Pic here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last Sunday was a prepare for the week day! Steph and Geoff had just left on Saturday, so I spend Sunday catching up around the house, grabbing groceries, and mostly meal prepping!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/lastbreak1.jpg&#34; alt=&#34;breakfast&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/lastbreak2.jpg&#34; alt=&#34;breakfast&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/lastlunch.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We stopped at the container store, and Zac ensured that I &lt;em&gt;contained myself&lt;/em&gt;. Still my fav.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/csstore.jpg&#34; alt=&#34;Container Store&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday night was craft night! I headed over to Cojo&amp;rsquo;s with my banner supplies for Stephs Shower!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/craftnight.jpg&#34; alt=&#34;banner&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday night Zac and I did some work while on the couch. I realized I hadn&amp;rsquo;t watch a SINGLE SUPERNATURAL since gSchool started. WHICH IS CRAZY. How will I ever catch up at this rate? So I put that on..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/supercomp.jpg&#34; alt=&#34;breakfast&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wednesday night Zac went to a Learn to Code Colorado meetup with me. I&amp;rsquo;ll be TA-ing a class this month, and wanted to get some hands on experience. It was also great because Zac got to meet some of my instructors and peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/ltcc.jpg&#34; alt=&#34;LTCC&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zac snagged a picture of me in my natural element (because helping)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/ltcc2.jpg&#34; alt=&#34;LTCC&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday after class/work we went to the gym at the Galvanize/Pivotal building. After getting my moves in, Zac and I did a row OFF! It was fun, but mostly it was hard, lol.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/gym.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/gym2.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/gym3.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/row.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next thing we knew it was FRIDAY! I wore my new CF shirt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/cfshirt.jpg&#34; alt=&#34;Cloud Foundry&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mel and Cody planned a layover in Denver on their way to Mexico for their honeymoon! Zac met them at the airport at 6; and at 7 we headed to Avanti for dinner!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/mel.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/melcod.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/allfour.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it was time to head back to the airport! We grabbed icecream from Milkbox at union first.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/icecream.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had the MOST AMAZING flavor. Seriously. Try it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/straw.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/mctrain.jpg&#34; alt=&#34;Mel &amp;amp; Cody&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was the shortest visit, but it was good to see them and hug them! I hope they have a great vacation in sunny Mexico!&lt;/p&gt;
+
+&lt;p&gt;Speaking of SUN, our weather has been kind of crazy this week. But it hasn&amp;rsquo;t been awful, and we had some SPECTACULAR days.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/sunset.jpg&#34; alt=&#34;Insert Random Dog Pic here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/sunsnow.jpg&#34; alt=&#34;Insert Random Dog Pic here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saturday- I hack-a-thon-ed. Read that post for details!&lt;/p&gt;
+
+&lt;p&gt;After we met up with Joe and his family for a quick dinner and some Ciders. They have seriously cute kids, and I had fun playing with them!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/joe.jpg&#34; alt=&#34;Joes baby&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I slept, like a lot. On Sunday I WAS DEAD TIRED (even after a full nights sleep). So, we woke up late, went to the gym, and after a long day, ran errands.&lt;/p&gt;
+
+&lt;p&gt;I stopped by the library and returned my books. I also cancelled all my holds. I haven&amp;rsquo;t read a single page in three weeks.  A SINGLE PAGE. Oh well.. in 5 months I&amp;rsquo;ll be back at it, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/bookbreakup.jpg&#34; alt=&#34;library returns&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When we got home, I meal prepped while listening to the new Ed Sheeran Album on Spotify. It&amp;rsquo;s awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/thisbreak.jpg&#34; alt=&#34;Meal Prep&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/thisbreak2.jpg&#34; alt=&#34;Meal Prep&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/thisdinner.jpg&#34; alt=&#34;Meal Prep&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I seriously can&amp;rsquo;t explain how much simpler meal prepping makes the week. It&amp;rsquo;s an investment on Sunday, but there is NO way I could eat healthy like this during the week otherwise. Here is a day(insert smoothie):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/allmeal.jpg&#34; alt=&#34;Meal Prep&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Life is PRETTY CRAZY around here, but I am loving every bit of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_05/dog.jpg&#34; alt=&#34;Insert Random Dog Pic here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w3</title>
+      <link>https://libmb.github.io/post/2017_03_04/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_04/</guid>
+      <description>&lt;p&gt;Week three of module one is officially complete! At the end of the week, I am feeling pretty great!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/kiki.jpg&#34; alt=&#34;kiki&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.&lt;/p&gt;
+
+&lt;p&gt;This week we had Roberto as our floating instructor. We got to hang with his AWESOME dog Iago-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/iago.jpg&#34; alt=&#34;Iago the Dog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday we covered HTTP and AJAX. AJAX is super helpful. Wednesday we moved on to CSS Frameworks (and had us all like, wth css!) and promises (which had us like, wth is this?). Covering CSS frameworks was so great- like a really neat shortcut to move faster when needed. Following that up with Promises left me feeling like it went right over my head. Luckily, the instructor came back on Friday and led a break out on promises to clarify and dig a bit deeper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/http.jpg&#34; alt=&#34;HTTP Whiteboard&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday we discussed higher order functions and the accumulator pattern. I loved these exercises. I pretty much use AP for all of the kata&amp;rsquo;s I try to solve on Code Wars, so I felt pretty equipped to tackle the assessment. Between HoF and AP, we had a ton of npm tests to pass. It was super satisfying to see those green checkmarks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/AP.png&#34; alt=&#34;AP Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/HOF.png&#34; alt=&#34;HoF Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday was once again, scrimmage day! We started off with a guest speaker, and then we did a mini hackathon with a partner. We were trying to prep for the event on Saturday which most of the class signed up for. My partner and I used two API&amp;rsquo;s (punk beer and reddit) to make a random night generator. We managed to get it all functioning and throw up a materialize layout before time was up and we had to present. Afterwards, I was pretty amazed by what we could accomplish in a few hours- and was ready to participate in the Hack the Planet hackathon on Saturday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/randomnight.png&#34; alt=&#34;Scrimmage Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of the day Friday, we had another speaker. A Galvanize Instructor who had their last day and wanted to share their experience as a student &amp;gt; resident &amp;gt; instructor &amp;gt; software developer. All three webdev cohorts got together for it, and had a huge Friday stand down which Kyle led.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/standdown.jpg&#34; alt=&#34;Group Stand Down&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After class on Friday, our resident organized a mentor/mentee happy hour (during First Friday Taco &amp;amp; Tequila hour) so we all went up to the fourth floor to meet some past students, current students and to of course enjoy some tacos!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/tacos.jpg&#34; alt=&#34;Tacos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/tequila.jpg&#34; alt=&#34;tequila&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over all it was a really busy week- but I feel like we are learning so much. I&amp;rsquo;m going to need to set aside time during break week to review all of the things- but I am still just super happy to be learning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VISITORS</title>
@@ -745,156 +961,6 @@ Seriously love this list so much. After I finished my last audiobook, I couldn&a
 &lt;p&gt;For now, I&amp;rsquo;ll wrap up.. I have a delicious smelling coconut lemon curry to go eat. Exciting news coming soon.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_lcsoup.jpg&#34; alt=&#34;soup&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tone it Up!</title>
-      <link>https://libmb.github.io/post/2017_01_10/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_10/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been just over a week since I started Tone It Up! I&amp;rsquo;ve used the nutrition plan for Fit Girls a few times the past couple years, and while I loved the food, I started to get sick of the same recipes. It was time to switch things up!&lt;/p&gt;
-
-&lt;p&gt;So far, I&amp;rsquo;m loving the meals- and the daily workouts are definitely doable.&lt;/p&gt;
-
-&lt;p&gt;One dinner I love is Lentil Butternut Squash Soup. I really did not think I would enjoy this.. but I really like everything about it. It has just the right amount of spice and texture. I actually already made it a second time!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_bns.jpg&#34; alt=&#34;soup&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also finally tried smoothie bowls. The first time, I used a fresh banana because I hadn&amp;rsquo;t had time to freeze them yet- and without realizing the difference it makes, I was really confused as to why people make smoothie bowls. I actually just grabbed a straw to drink it. The next day, I decided to try again, and the frozen banana made all the difference. I LOVE this breakfast. It&amp;rsquo;s almost as great as eating frozen yogurt with great toppings. Almost.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_bowl.jpg&#34; alt=&#34;soup&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac and I have been hitting the gym on his lunch break. It&amp;rsquo;s so great to have a gym partner.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A serious goal for 2017 is to improve my double unders. I mean, I only string together a max of 6, so there is a lot of room for improvement. Until then, I&amp;rsquo;ll keep beating myself up. Literally, whip marks on my legs, arms and sometimes I&amp;rsquo;ll need to ice a knuckle or two.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_rope.jpg&#34; alt=&#34;double&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Every workout has been followed by a smoothie.. and I love, love, LOVE smoothies. I drink mine in like 2 minutes, while Zac takes a while- you know, drinking at a normal pace.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_smoothie.jpg&#34; alt=&#34;smoothie&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lastly, Kindness Yoga is also holding a January Challenge. My goal is to get to 15 classes this month. I went to 4 classes last week, and they make such a huge difference in how I feel. It&amp;rsquo;s been hard- I prioritize it after my workout for the day, and sometimes I can hardly hold myself up because my muscles are so tired. Still worth it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_10/2017_01_10_yoga.jpg&#34; alt=&#34;soup&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Starting off 2017!</title>
-      <link>https://libmb.github.io/post/2017_01_08/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_08/</guid>
-      <description>&lt;p&gt;Hope everyone has had a great start to the year! It was a cold week here in Denver, but we had a great week nonetheless. I have been re-watching Downton Abbey&amp;ndash; on Monday I realized I could stream Amazon Video through the XBox, and I am THRILLED. Truth is, I missed the last season, and I need to watch! I&amp;rsquo;ve kept them playing pretty much all day while I work on different CodeAcademy/Computer Projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_comp.jpg&#34; alt=&#34;downton&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaking of computer projects&amp;mdash; on Wednesday I lured a friend out for drinks so that I could question her about WebDev and local programs. She was an awesome source of information (as well as an awesome person)- and I have a lot to consider. Wednesday this coming week I am attending an info session at Turing School, and then I&amp;rsquo;ll start applying and see what happens. It might take a few tries, but I am loving everything I&amp;rsquo;m learning, and I am ready to move forward at a faster pace!&lt;/p&gt;
-
-&lt;p&gt;Friday night we went to the Botanic Gardens for an Off The Clock event. The same friend above invited us, and we meet another couple there. It was a fun little night. I just LOVE walking around the gardens. I can&amp;rsquo;t wait for summer- I think I&amp;rsquo;ll just go and sit a couple days a week- because. It also makes me wish I could grow things, but let&amp;rsquo;s be honest, keeping plants alive is not my strong suit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_gardens.jpg&#34; alt=&#34;Gardens&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday we were planning on snowboarding, but were just too sore to make it up. Instead, we slept in and took care of some things around the apartment. In the morning, we walked to Panera Bread to get a loaf (and a Caramel Latte) to go with our bean-less Chili. I made a large batch in December and froze portions for trips to the mountain. I had already thawed one, so chili for lunch it was! Rexy loved the walk- and he gets more compliments, laughs and smiles when he wears his boots. Seriously, no one is immune to the cuteness that is dog boots.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_panera.jpg&#34; alt=&#34;Panera&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When we got home, it was straight to the paw-wash! Of course, he was filthy, and overjoyed by the prospect of being hosed down.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_dogbath.jpg&#34; alt=&#34;Gardens&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday afternoon I finished up another jar of Justin&amp;rsquo;s Almond Butter. I have been drinking SO MANY smoothies, and eating so many smoothie bowls, that I needed a cost effective option. I mentioned this to Zac, and an hour later, he was in the kitchen whipping up a batch of his first ever homemade PB! Guys- ITS AMAZING. Now, we&amp;rsquo;re looking for peanuts we can buy in bulk&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_pb.jpg&#34; alt=&#34;Gardens&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Sunday, it was FOOTBALL DAY. How about them Steelers? Gosh I am so excited about this post season. After the Steelers game, I headed to the gym- where I caught most of the Packers Giants game, and the Golden Globes Red Carpet.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_elip.jpg&#34; alt=&#34;TV&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then it was time for Restorative Yoga at Kindness. I love this weekly class- its the perfect way to wrap up a week! It was a particularly great class- and afterwards, Zac met me with Rex to walk home. Always the gentleman, he carries my Yoga mat like a pro.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_yoga.jpg&#34; alt=&#34;Gardens&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I can&amp;rsquo;t believe it&amp;rsquo;s 2017 already. I will say, that being back in Denver finally feels like home and not just a vacation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_08/2017_01_08_denver.jpg&#34; alt=&#34;Gardens&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Monthly Reads</title>
-      <link>https://libmb.github.io/post/2017_01_05/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_05/</guid>
-      <description>&lt;p&gt;In December I finished 11 books. That&amp;rsquo;s CRAZY! I think that I associate the holiday season with curling up with a book.. and therefore take every opportunity to do so!&lt;/p&gt;
-
-&lt;p&gt;The books:
-  The Graveyard Book Vol 1,&lt;br /&gt;
-  The Graveyard Book Vol 2,&lt;br /&gt;
-  Winter Stroll,
-  Winter Storms,
-  Eligible,
-  Crooked Kingdom,
-  The Woman in Cabin 10,
-  All The Time in the World,
-  A Man Called Ove,
-  Paper Princess&lt;/p&gt;
-
-&lt;p&gt;Thoughts:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_GYB.jpg&#34; alt=&#34;Graveyard&#34; /&gt;
-The Graveyard Book by Neil Gaiman, and Craig P. Russell&lt;/p&gt;
-
-&lt;p&gt;The Graveyard Book volumes were beautiful. I always wanted to get to this book- and when a friend tagged the graphic novel in her banned books post, it brought them up to the top of my list. I actually had hoped to read them in time for Halloween- but other library loans were ending and it got side tracked until December. I digresss.. This was a wonderful story- I love all the characters, and the different ways you can interpret the story itself. &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars | &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_Stroll.jpg&#34; alt=&#34;stroll&#34; /&gt;
-Winter Stroll(Winter 2) by Elin Hilderbrand&lt;/p&gt;
-
-&lt;p&gt;I picked up the first book in this series, Winter Street, while I was visiting my family for Thanksgiving. The book was sitting on my Aunts coffee table, and I was instantly grabbed by the cover- the beautiful red door, and I wanted a holiday read. I finished it in just over a day, and really enjoyed reading it. Then I had to pick up this one. &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_storm.jpg&#34; alt=&#34;storm&#34; /&gt;
-Winter Storms(Winter 3) by Elin Hilderbrand&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s hard for me to summarize these books individually, because they really form a cohesive story. There are ups, there are downs. It shows how a family loves, grieves, and continues to move through life. A great holiday series. &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_eligible.jpg&#34; alt=&#34;eligible&#34; /&gt;
-Eligible: A Modern Retelling of Pride and Prejudice by Curtis Sittenfeld&lt;/p&gt;
-
-&lt;p&gt;Book club book! Alright, so I moved in July- but I miss my book club! They keep me in loop with what they are reading, and I try to read them even if I&amp;rsquo;m not there for the fantastic conversation and great food/drinks.&lt;/p&gt;
-
-&lt;p&gt;Either way, let&amp;rsquo;s be honest, I needed to read this. I WILL READ ANY FORM OF PRIDE AND PREJUDICE EVER. So, did I like this book? YES. I loved it. ITS P&amp;amp;P! In the beginning I was a little irritated by the &amp;ldquo;modern&amp;rdquo; aspect, but after a few chapters I fell into the new rhythm and I honestly like what they did with the characters. I&amp;rsquo;ll be keeping this one. &lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars (bias)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_crooked.jpg&#34; alt=&#34;crooked&#34; /&gt;
-Crooked Kingdom by Leigh Bardugo&lt;/p&gt;
-
-&lt;p&gt;Kaz and his crew are BA. Seriously. It makes me want to climb over roofs and scheme! This book, like the first, will keep you on your toes. Not even you will know what Kaz is up to, until he wants you to know.&lt;/p&gt;
-
-&lt;p&gt;Without giving spoilers, I will say that this final book tied into the Grishaverse and I was SO pleasantly surprised by that! &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_cabin10.jpg&#34; alt=&#34;Cabin&#34; /&gt;
-The Woman in Cabin 10 by Ruth Ware&lt;/p&gt;
-
-&lt;p&gt;In the first few chapters, I was really concerned that this book would be too much like Girl on the Train (which was a great book, but I don&amp;rsquo;t want to read the same story)..(unless its p&amp;amp;p). It wasn&amp;rsquo;t! A tale all of its own. I was surprised, I think the ending was brilliant, and I recommend! &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_attitw.jpg&#34; alt=&#34;time&#34; /&gt;
-All the Time in the World by Caroline Angell&lt;/p&gt;
-
-&lt;p&gt;This book was so heart breaking and uplifting at the same time. Not uplifting in a everything turns out perfect way, but in a life goes on way. I cannot imagine the burden of the loss these characters face, and yet, I feel like Angell did a wonderful job of showing us different aspects of being human and helped me relate to the characters. &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_05/reads_ove.jpg&#34; alt=&#34;Ove&#34; /&gt;
-A Man Called Ove by Fredrik Backman&lt;/p&gt;
-
-&lt;p&gt;READ THIS BOOK! So, three chapters into this book I loved Ove. 5 Chapters in I said it would be one of the best books I read in 2016. By the end, it&amp;rsquo;s one of my favorite books ever. Ove is reminiscent of Carl Fredricksen from the movie UP and has a bit of Gran Torino to it as well. One page, Ove will have you laughing, and the next he&amp;rsquo;ll have you in tears. I think that I learned something from Ove, and that we can always use a new prespective. &lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; stars&lt;/p&gt;
-
-&lt;p&gt;Lastly, I read Paper Princess by Erin Watt; I don&amp;rsquo;t have a picture of this book, and I gave it zero stars on Goodreads. Why? Because I was so shocked by the book that I was not ready to process it. I&amp;rsquo;m still not, so I&amp;rsquo;ll hold off on that. Here is what I will say: The main character is a girl in high school. She meets a boy and it becomes more of an erotic genre than what I had expected- I expected a YA book! Now, I see people saying this is NA&amp;ndash; I DO NOT AGREE. NA should bridge the gap of teen and adult- but if I was doing Readers Advisory for New Adult, I would NOT include this as an option (and if you are, perhaps you should mention the main theme). Hey, as far as erotic novels go- it was okay. But NA? No.&lt;/p&gt;
-
-&lt;p&gt;The stars are based on what I gave the book on Goodreads. However, you should know that I am particularly stingy with my 5 stars. Also, I don&amp;rsquo;t read bad books. As in, I might start a book, and if I don&amp;rsquo;t like it, I put it down. Life is too short to read bad books.&lt;/p&gt;
 </description>
     </item>
     

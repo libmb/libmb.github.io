@@ -1,12 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>galvanize on Shelter&#39;s House</title>
+    <title>Galvanize on Shelter&#39;s House</title>
     <link>https://libmb.github.io/categories/galvanize/index.xml</link>
-    <description>Recent content in galvanize on Shelter&#39;s House</description>
+    <description>Recent content in Galvanize on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://libmb.github.io/categories/galvanize/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hack the Planet</title>
+      <link>https://libmb.github.io/post/2017_03_06/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_06/</guid>
+      <description>&lt;p&gt;HACK THE PLANET WAS SO MUCH FUN.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/hacktheplanet.png&#34; alt=&#34;Logo for Hack the Planet&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/me.jpg&#34; alt=&#34;Selfie&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So Saturday I participated in my FIRST EVER HACKATHON. It was also the first ever gSchool hackathon. The event started around 8:30, but I showed up early to get put into a team. Since I&amp;rsquo;m still new to this world, and the event wanted to encourage cross cohort/location collaboration- I decided to go in as a single and get paired up with a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/team.jpg&#34; alt=&#34;Group Pic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And it worked out really great! Look at this crew. Molly is in g46 with me, two teammates are in g41 (about a month ahead of us), and one team member is a data science student. We were pretty well rounded.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/molly.jpg&#34; alt=&#34;Molly and I&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After everyone was grouped up- we got the rules from Josh! Goal was to use a NASA API and make a web app&amp;ndash; they amended this later to be any API (because reasons I don&amp;rsquo;t know..?).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/rules.jpg&#34; alt=&#34;Josh giving rules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At 9:30 we got started. We brainstormed a bunch of ideas until one clicked. Molly had taken a meteorology class in undergrad, and her teacher watched the forecast for hail. He would collect it and make margaritas- according to him they make the best because they have ozone in them. Our idea- Hail Ya! was born.&lt;/p&gt;
+
+&lt;p&gt;The concept was to pull weather data- and plan a margarita party around forecasted hail!&lt;/p&gt;
+
+&lt;p&gt;First hiccup was that there was no hail forecasted in the US for, like, ever. Winter? SO we switched gears-  a web app that would pull 1. your location and 2. the weather forecast. We would pull the precipitation type and tell you what kind of drink to make based on what &amp;ldquo;natural&amp;rdquo; ingredients you could use!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/diagram.jpg&#34; alt=&#34;whiteboard planning&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We split off- and I started working on design. With the time crunch, I decided to go with &lt;em&gt;what I knew&lt;/em&gt; and so you can see- it mirrors what I created for this blog!:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/hailcomp.jpg&#34; alt=&#34;picture of computer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created 4 recipes based on the results for rain, snow, sun and the ultimate goal: hail!&lt;/p&gt;
+
+&lt;p&gt;At 1:30 (pizza was delivered at noon), I wrapped up the design pieces and started collaborating on the CSS/HTML pages. At 3pm, we had finished our forms and layout.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/screenform.png&#34; alt=&#34;Finished form&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/screenresult.png&#34; alt=&#34;Finished result page&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it was crunch time. Submission was due at 4:30 and we were struggling to get the last functions working.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/struggle.jpg&#34; alt=&#34;struggles&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With minutes left we finished, and with seconds left we cleaned up our merge files and pushed our product to Github!&lt;/p&gt;
+
+&lt;p&gt;Then it was time to present- we were up first, which was actually awesome. I don&amp;rsquo;t have a picture of us, but I do have one of the team that won (they did AWESOME):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_06/present.jpg&#34; alt=&#34;Winning team presentation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seriously everyone did awesome. It was great to sit back and see what everyone had created- what they came up with and how they executed it! There wasn&amp;rsquo;t a single bad project.&lt;/p&gt;
+
+&lt;p&gt;We didn&amp;rsquo;t win, but I wouldn&amp;rsquo;t have changed anything. I had a great time with my team. I take away this: TIME FLIES SO FAST. I can&amp;rsquo;t believe we were there, seriously working, for 8 hours. But I also can&amp;rsquo;t believe what we were able to accomplish either.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m excited for the next round- and to find a Hackathon I can enter with Zac.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To end, I slept over 10 hours Saturday night.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w3</title>
+      <link>https://libmb.github.io/post/2017_03_04/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_04/</guid>
+      <description>&lt;p&gt;Week three of module one is officially complete! At the end of the week, I am feeling pretty great!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/kiki.jpg&#34; alt=&#34;kiki&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.&lt;/p&gt;
+
+&lt;p&gt;This week we had Roberto as our floating instructor. We got to hang with his AWESOME dog Iago-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/iago.jpg&#34; alt=&#34;Iago the Dog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday we covered HTTP and AJAX. AJAX is super helpful. Wednesday we moved on to CSS Frameworks (and had us all like, wth css!) and promises (which had us like, wth is this?). Covering CSS frameworks was so great- like a really neat shortcut to move faster when needed. Following that up with Promises left me feeling like it went right over my head. Luckily, the instructor came back on Friday and led a break out on promises to clarify and dig a bit deeper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/http.jpg&#34; alt=&#34;HTTP Whiteboard&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday we discussed higher order functions and the accumulator pattern. I loved these exercises. I pretty much use AP for all of the kata&amp;rsquo;s I try to solve on Code Wars, so I felt pretty equipped to tackle the assessment. Between HoF and AP, we had a ton of npm tests to pass. It was super satisfying to see those green checkmarks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/AP.png&#34; alt=&#34;AP Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/HOF.png&#34; alt=&#34;HoF Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday was once again, scrimmage day! We started off with a guest speaker, and then we did a mini hackathon with a partner. We were trying to prep for the event on Saturday which most of the class signed up for. My partner and I used two API&amp;rsquo;s (punk beer and reddit) to make a random night generator. We managed to get it all functioning and throw up a materialize layout before time was up and we had to present. Afterwards, I was pretty amazed by what we could accomplish in a few hours- and was ready to participate in the Hack the Planet hackathon on Saturday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/randomnight.png&#34; alt=&#34;Scrimmage Screen Shot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of the day Friday, we had another speaker. A Galvanize Instructor who had their last day and wanted to share their experience as a student &amp;gt; resident &amp;gt; instructor &amp;gt; software developer. All three webdev cohorts got together for it, and had a huge Friday stand down which Kyle led.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/standdown.jpg&#34; alt=&#34;Group Stand Down&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After class on Friday, our resident organized a mentor/mentee happy hour (during First Friday Taco &amp;amp; Tequila hour) so we all went up to the fourth floor to meet some past students, current students and to of course enjoy some tacos!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/tacos.jpg&#34; alt=&#34;Tacos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_04/tequila.jpg&#34; alt=&#34;tequila&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over all it was a really busy week- but I feel like we are learning so much. I&amp;rsquo;m going to need to set aside time during break week to review all of the things- but I am still just super happy to be learning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>gwd46 m1w2</title>
