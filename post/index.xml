@@ -6,8 +6,203 @@
     <description>Recent content in Posts on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://libmb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>gwd46 m1w5</title>
+      <link>https://libmb.github.io/post/2017_03_18/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_18/</guid>
+      <description>&lt;p&gt;Wow, what a week! It seriously FLEW by. First, I&amp;rsquo;ll review some pictures from the week, then get into the nitty gritty of projects&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;After the weekend, I decided that Monday was the best day to bring Rex into class. It works for our schedule, and fits better with the general flow at school. He only stayed a half day- because, projects. Also, HE SHAMED THE FAMILY by deciding to mark a classmates bag. UGH REX WTH, MAN! The guy was super generous and I still feel awful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/m.rex.jpg&#34; alt=&#34;rexy&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday morning we had a guest speaker- Dish Network! I only went because I was assured that I could sit in the back and do work - that it wouldn&amp;rsquo;t be rude. I guess this is a good time to say that I did NOTHING special or extra this week. I didn&amp;rsquo;t attend any meet ups or go to breakout sessions. It was a busy week, and I prioritized what I thought was best for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/m.dish.jpg&#34; alt=&#34;Dish&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty much all week I worked upstairs, getting sun and fresh air.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/t.upstairs.jpg&#34; alt=&#34;Up&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/t.lion.jpg&#34; alt=&#34;Dog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/w.balcony.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OK, BEFORE I jump into Friday, I&amp;rsquo;ll cover the project.&lt;/p&gt;
+
+&lt;p&gt;Quarter one projects are the embodiment of what we&amp;rsquo;ve learned this quarter. I submitted two ideas last Friday, and was directed to a certain one. What did I work on all week? GX!: Gifting Experiences. I decided to make something that was important to me, and perhaps would make life a little easier. I am really passionate about gifting experiences rather than material items- and in the past few years have gained some insight and experience in doing so. My idea was to create a web app that would allow a user to sort through gifts and return ones that fit with their scenario.&lt;/p&gt;
+
+&lt;p&gt;The requirements included: valid HTML, CSS, JavaScript and CSS Framework. Connect to at least one external API, and deploy to a production environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/f.timeline.jpg&#34; alt=&#34;timeline&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, it took me all week. I used two API&amp;rsquo;s (for weather and location) and by Wednesday night, I had a MVP (minimal viable product). Thursday I cleaned it up- and Friday, presented! Being honest, it could use some work and in the future, I&amp;rsquo;d like to do things differently (for instance, NOT use a CSS framework- but design the site myself).&lt;/p&gt;
+
+&lt;p&gt;Top things I learned?: 1. Local storage! Whoop. 2. When generating ideas- consider how much of the outcome relies on your creating content. The main product of the web app I created was written rather than pulled. I could spend hours and hours updating that content to make it better; and the product is that content! In the future, I will highly consider that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/f.wireframe.jpg&#34; alt=&#34;wireframe&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday was presentation day. We submitted our projects (Github, deployed and wireframes)- and spent about 2-3 minutes demo-ing our product. I was BLOWN AWAY by my awesome cohort. Like, way to go guys. After, we were released for lunch and to create a YouTube video tutorial. About an hour before we were due back for retro- we were all finished and a bunch of us sat outside at DBC across the street.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/f.DBC.jpg&#34; alt=&#34;DBC&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then we did Retro.. and PROJECT WEEK WAS COMPLETE.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_18/f.retro.jpg&#34; alt=&#34;RETRO&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That means that I AM ON BREAK. One week. I &lt;strong&gt;plan&lt;/strong&gt; on getting a lot done- we&amp;rsquo;ll see!&lt;/p&gt;
+
+&lt;p&gt;So, you can check out my deployed web app here:
+&lt;a href=&#34;https://giftx-d0791.firebaseapp.com/index.html&#34;&gt;GX: Gifting Experiences&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring is close...</title>
+      <link>https://libmb.github.io/post/2017_03_12/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_12/</guid>
+      <description>&lt;p&gt;Energy was pretty low this week, and I wasn&amp;rsquo;t feeling fantastic some days- but it was a good week.&lt;/p&gt;
+
+&lt;p&gt;Monday night we rented Dr. Strange. IT WAS SO GOOD. It&amp;rsquo;s actually probably one of my favorite movies now. I&amp;rsquo;ll have to own it and watch it again and again&amp;hellip; I HOPE there is another (&amp;amp;soon).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/m.strange.jpg&#34; alt=&#34;Dr. Strange&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday was my &lt;strong&gt;early day&lt;/strong&gt; so we hit the gym and took it easy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/t.gym.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wednesday Zac and I grabbed lunch at Brider. It was delicious, and wonderful outside. Before leaving, we grabbed lattes to take back to work with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/w.lunchz.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/w.lunch.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/w.lunchc.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wednesday night we grilled some dinner and sat by the fire for a bit. It&amp;rsquo;s so nice to be outside.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/r.fire.jpg&#34; alt=&#34;fire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/r.fire2.jpg&#34; alt=&#34;fire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday we had a long standing plan to meet up with some friends at Blake Street Vault. I was excited for Zac to try the fried cheese and HE DOESNT EVEN LIKE IT. I think he&amp;rsquo;s insane, and its by far the best. I guess more for me?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/w.vault.jpg&#34; alt=&#34;Blake street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/w.ck.jpg&#34; alt=&#34;Blake street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday we rented another movie- Arrival. It was REALLY good. Much better than I expected&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/f.movie.jpg&#34; alt=&#34;Movie rental&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Sunday, I did some meal prep- and that pretty much covered out week. Lot&amp;rsquo;s of relaxing and catching up on things.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_12/s.mealprep.jpg&#34; alt=&#34;Sunday meal prep&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w4</title>
+      <link>https://libmb.github.io/post/2017_03_11/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://libmb.github.io/post/2017_03_11/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/m.donut.jpg&#34; alt=&#34;Two boxes of Donuts!&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday morning two classmates pulled together to bring in a BUNCH of doughnuts! They are for sure not on the plan- but I had one and it literally made me happy- so there&amp;rsquo;s that. (ps. they were awesome for doing that).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/m.guest.jpg&#34; alt=&#34;Guest Speaker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We started off the week with a guest speaker- a UX designer! It was a really interesting talk- and I appreciate seeing and hearing from different people in the tech field- who work in the various aspects of web development.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/model.jpg&#34; alt=&#34;model map&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Topic wise- we covered models and deployed to Firebase. It was a gentle way to start the week! (And I think Kiki is warming up to me!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/m.molly.jpg&#34; alt=&#34;Mollys desk&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/m.kiki.jpg&#34; alt=&#34;Kiki laying&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Tuesdays, I get in early to do some side work with a classmate- we kind of review the things we&amp;rsquo;ve gone over and talk about anything we&amp;rsquo;re stuck on. I was first in the basement, so I made all the fresh coffee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.coffee.jpg&#34; alt=&#34;Coffee Pots&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also decided to take over our white boards. They were getting pretty messy and hard to read- so I decided to clean them up a bit and bring a little inspiration to the walls!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.board.jpg&#34; alt=&#34;White boards&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.stars.jpg&#34; alt=&#34;White Board image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since I go in early, I have a really hard time eating breakfast before hand. I pretty much just suck at getting up in the morning. Luckily- I know myself and meal prep! SO I brought breakfast and enjoyed it in the classroom. (Overnight oats for the win).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.break.jpg&#34; alt=&#34;Breakfast&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Topic wise, we covered wireframes and closures&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.wireframe.jpg&#34; alt=&#34;wireframing&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was feeling AWFUL on Tuesday. I actually contemplated leaving the entire day,  but my pain subsided after lunch and I pulled it off. Since I was feeling crappy- and wear my emotions on my sleeve- Jordan gave me his origami for the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/t.origami.jpg&#34; alt=&#34;Origami&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He makes these everyday! Out of bus passes and random papers. They are AMAZING. I love them and wish I could make these things without looking them up..&lt;/p&gt;
+
+&lt;p&gt;Wednesday Izabella brought Ziggy to class! He was super sweet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/w.ziggy.jpg&#34; alt=&#34;Dog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was INTERNATIONAL WOMENS DAY and during stand up George gave a really, really nice little speech about it. (And I was really glad that I wasn&amp;rsquo;t the first to mention it during interestings!) Anyway, there were a lot of events going on that night- but I couldn&amp;rsquo;t make any of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/w.iwd.jpg&#34; alt=&#34;IWD Event&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I finally completed a KATA submission on Wednesday, but it won&amp;rsquo;t load. I&amp;rsquo;m guessing that I&amp;rsquo;m missing something-  but i&amp;rsquo;ll have to come back to that later.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/w.codewar.jpg&#34; alt=&#34;Codewars&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday was BEAUTIFUL. I spent my free time outside. For lunch, Zac met me a Briders. They have a baby kale and apple salad he&amp;rsquo;s been raving about- so I had to try it so that we can make it at home! (it was actually fantastic).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/r.lunch.jpg&#34; alt=&#34;Zac at Lunch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During lecture, we discussed agile workflows and user stories. I was super excited to move into this discussion - because it&amp;rsquo;s such an important aspect of work at Pivotal and I had heard so much about it. Plus, we got to use Pivotal Tracker for logging user stories- it was a cool intersection of Zac&amp;rsquo;s life and my schooling!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/r.agile.png&#34; alt=&#34;Agile&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All afternoon, we working on assessments and brainstormed projects on the balcony. As mentioned, it was BEAUTIFUL!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/r.group.jpg&#34; alt=&#34;Outside&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday was PROPOSAL DAY. Oh gosh- FOUR WEEKS DONE? When did that happen&amp;hellip;. Week five is all about our personal project- so on Friday we wrote up proposals- submitting them for review and made revisions as needed. Mine ended up getting approved a couple hours before the end of the day- but I&amp;rsquo;ll save that for next week. What was REALLY exciting about Friday was that IT WAS REXY&amp;rsquo;S FIRST DAY AT GALVANIZE. Here he is being good boy at stand up:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.rexstand.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We had a guest speaker- and he was pretty vocal during that (opps). He just wanted some water&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.rexspeaker.jpg&#34; alt=&#34;Rex during speaker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After that, we ironically did a agile exercise and it included a lot of tennis balls. Rex was super good though. And the exercise was awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.tennis.jpg&#34; alt=&#34;Tennis&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He pretty much just slept (because let&amp;rsquo;s be honest, I took him for a run before we went in).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.rexsleep.jpg&#34; alt=&#34;Sleeping rex&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We met Zac for lunch, and Rex went home with him after that- so that I could focus on some work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.lunch.jpg&#34; alt=&#34;Rex hotdog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So- that was week Four. A relatively easy going week to lead into projects. A great step with Rex. Lots of sun and fun. Here&amp;rsquo;s our updated Q1 learn map!:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_03/2017_03_11/f.learn.jpg&#34; alt=&#34;Whiteboard map&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hack the Planet</title>
@@ -787,180 +982,6 @@
 &lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_27/sunrise.png&#34; alt=&#34;morning&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This weekend will probably be low-key, but next week Zac will be in LA, and I have some fun things planned to pass the time. Two weeks until school!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Code Catchup</title>
-      <link>https://libmb.github.io/post/2017_01_26/</link>
-      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_26/</guid>
-      <description>&lt;p&gt;Since moving to Denver in July, I have been working hard to learn how to code.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/codewars.jpg&#34; alt=&#34;codewars&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Way back in middle school, I ran a website. It was for quotes- which I am sure were not properly cited, but the site was cool, the cursor had a tail, and it was definitely pink. I was self taught. After school, I would come home and sit at the computer for hours trying to figure out how the code worked. How I could pick it apart and put it together. Slowly figuring out how I could get my site to do something new. I loved it. Then, the quote trend passed, and I moved away from that side of learning.&lt;/p&gt;
-
-&lt;p&gt;In my first paraprofessional role, I found myself leading programs for kids. One of the first was a program using Scratch. I loved it. I had so much fun with those kids, and they were so creative. I realized that I was still really interested in learning how to code.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/scratch1.jpg&#34; alt=&#34;scratch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then I interviewed for a new position. The interviewer asked what I wanted to learn for myself in the next year- what were my personal goals? In response, I said I wanted to learn how to code. That I had wanted to, and that it would be a good thing to work on. OF COURSE, I really had no time. I signed up for a few online classes.. but never practiced enough to retain anything I was learning. I even joined the mailing list for Girls Who Code in Syracuse, but never made it to a class.&lt;/p&gt;
-
-&lt;p&gt;Back in June, when we decided to make the move to Denver, I was taking Rex for a walk. I found myself once again thinking,&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I would really love to learn web development. Maybe, in like 10 years, I&amp;rsquo;ll have the time to learn it and it can be a second career&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Then, I realized, why wait? Why wait to learn, what I have already been waiting to learn? So, I got home, and brought it up with Zac. Now, I have an amazingly supportive husband. He was all for it, and he&amp;rsquo;s supported me every step.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/deskweek.JPG&#34; alt=&#34;weekday&#34; /&gt;
-&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/deskwknd.JPG&#34; alt=&#34;weekend&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, we moved, and almost every day since August, I have been coding. Learning through Codeacademy, Udacity and Codewars. On the weekends, Zac and I will pair up and work on projects together. All along, I have been working to be good enough to apply for a bootcamp. This month, I applied. I interviewed. I was accepted. AND in just over two weeks I will be starting the immersive web development program at Galvanize Platte! I&amp;rsquo;M SO EXCITED.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/rexsnout.jpg&#34; alt=&#34;scratch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I do want to mention right now that I still LOVE library science. It is my goal to combine all of the skills I have with the skills I&amp;rsquo;ll learn.  I have zero regrets when it comes to the decisions I&amp;rsquo;ve made this far.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/macbookpro.png&#34; alt=&#34;new computer&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, I&amp;rsquo;m prepping for the course. It&amp;rsquo;s intensive, so I&amp;rsquo;m trying to prepare myself ahead of time. Adjusting my sleep schedule, hitting the gym early, spending time with meal plans! I&amp;rsquo;m also still learning- and getting use to my new Macbook Pro.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_26/rollingmacs.jpg&#34; alt=&#34;pair&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m sure it&amp;rsquo;s going to be challenging, but let&amp;rsquo;s be honest, I love a good challenge. I love learning. I love being busy. And, I&amp;rsquo;m hecka excited. I can hardly wait&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fight Gone Bad</title>
-      <link>https://libmb.github.io/post/2017_01_19/</link>
-      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_19/</guid>
-      <description>&lt;p&gt;It takes 21 days to make a habit, and I&amp;rsquo;m on day 19 of Tone It Up! That&amp;rsquo;s 2 days from a habit? AND 2 days since &amp;ldquo;Ditch Day&amp;rdquo;. This week I&amp;rsquo;m feeling great again. Last week I had some ups and downs-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_spotify.jpg&#34; alt=&#34;playlist&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;First, helpful tool of the week: CARDIO PLAYLIST ON SPOTIFY.
-Seriously love this list so much. After I finished my last audiobook, I couldn&amp;rsquo;t get into the next one I picked. I was only a few days away from a new Audible credit, so I decided to wait it out and listen to some music (&amp;amp; catch some TV like NFL GAME DAY and a movie here or there). I have my new credit, and love my new book- but I only listen to it during cardio. Ironically, the rest of the time, I&amp;rsquo;m moving to the Cardio Playlist! If you&amp;rsquo;re into high octane music, give it a try.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_tv.jpg&#34; alt=&#34;tv&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What I learned last week is that I NEED TO EAT. I was so busy- I was jumping from one thing to the next and not prioritizing all 5 meals. So, I&amp;rsquo;d skip one, or two, in a day. I wouldn&amp;rsquo;t feel hungry, until bed time. At that point, I knew I didn&amp;rsquo;t want to eat anything. I&amp;rsquo;m trying REALLY hard not to eat anything after 7pm. So, I went to bed hungry. This was a HUGE MISTAKE. With the workouts, cardio and yoga I&amp;rsquo;ve been doing- I need food! Power! Energy! (Also, everyone needs food, and you should never go to bed hungry). I ended up crashing last week- and took some long naps. Then I started keeping up with meals. Even if I had to combine a M2 and M3, or a M4 and M5. I ate all the food in the plan. And you know what- I didn&amp;rsquo;t go to bed hungry, and I have so much energy. So, EAT! It&amp;rsquo;s part of taking care of yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_food.jpg&#34; alt=&#34;food&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Eating aside, I also somehow hurt my leg this past weekend. Just a strained muscle- but I didn&amp;rsquo;t want to move it into an injury- so while I&amp;rsquo;ve kept up on all workouts, I have been going just a little bit easier on my cardio (little less resistance, a few less strides/minute). It already feels better and I think I&amp;rsquo;ll kick cardio back up a notch in a day or two.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_gym.jpg&#34; alt=&#34;gym window&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As for workouts, I never purchased the workout videos from Tone It Up. Instead, I&amp;rsquo;ve been creating my own circuits. The ability to create these, well, I give all of the credit to Crossfit! Oh- a 22 minute video doing legs and shoulders? I&amp;rsquo;ll throw together an EMOM. Or a METCON. Or, my absolute fav, Fight Gone Bad Style. Today there was an Arms and Abs video I don&amp;rsquo;t have- so I threw together this FGB style workout: crunches, plank, sit ups, push ups, arm circles, break, dumbbell side bend, med ball chopper, farm carry, balance point crunches, break. The flow feels really productive- and you can do anything for 1 minute!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_FGB.jpg&#34; alt=&#34;workout&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaking of Crossfit- I do miss it. I miss it most on days when the plan calls for something like deadlifts, and I&amp;rsquo;m like- where my Olympic Weights at? Haha. I can only do so much with 12 lb dumbbells&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;I took a little time off from Yoga this week- due to my leg, but I did make one great class on a sunny morning.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_yoga.jpg&#34; alt=&#34;yoga&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tonight, Zac gets home- and he&amp;rsquo;s off travel next week. I&amp;rsquo;ll be happy to have my work out partner back!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_bud.jpg&#34; alt=&#34;Zac&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Midway through week 4, I love the plan. My water intake is 100% and my eating is great. I&amp;rsquo;m feeling pretty good.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_19/2017_01_19_day.jpg&#34; alt=&#34;day&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The movies, Lax and drinks!!</title>
-      <link>https://libmb.github.io/post/2017_01_17/</link>
-      <pubDate>Tue, 17 Jan 2017 17:00:00 +0900</pubDate>
-      
-      <guid>https://libmb.github.io/post/2017_01_17/</guid>
-      <description>&lt;p&gt;I can&amp;rsquo;t believe it&amp;rsquo;s only been 9 days since my last post, and I can&amp;rsquo;t believe it&amp;rsquo;s been 9 days! After a slow start to last week, the second half and weekend flew by! I think this post will be a long one&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_indy.jpg&#34; alt=&#34;dog cuddles&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(How great is that sweatshirt thought? It&amp;rsquo;s IndyBrand and I want ALL THE THINGS).&lt;/p&gt;
-
-&lt;p&gt;Monday morning Zac was off to LA for work! Rex and I went for a great walk. The sun was out, and after I felt pretty engergized.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_riverfront.jpg&#34; alt=&#34;walk riverfront&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During the day I finished up some work on the computer. That night, Shadow hunters aired and I was SO excited about it. So, after yoga, Rex and I settled in for a great show. About half way through Zac called, and I was whispering. He asked what was wrong- Oh, nothing, just in the middle of a show- ya know? Haha but it was practically over so we still caught up on his first day.&lt;/p&gt;
-
-&lt;p&gt;Tuesday was GORGEOUS! I woke up and went to Yoga with one of my favorite teachers. After, I grabbed a lavender honey latte at Carbon Beverage. It was SO GOOD. I didn&amp;rsquo;t get anything to eat, but look at the picture- I will NEED to go back and get a huge cinnamon bun someday (with Zac, to help).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_carbon.jpg&#34; alt=&#34;carbon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rex and I sat in the sun on our patio. It&amp;rsquo;s the perfect area- you&amp;rsquo;re totally blocked from the wind, but have full sun access! I was hot sitting in my tank.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_out1.jpg&#34; alt=&#34;sunny day&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_out2.jpg&#34; alt=&#34;sunny day&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday I woke up and decided to run some errands. We had some gift cards from Christmas- and that is my favorite way to shop! First I headed to Barnes and Noble- where I perused the shelves, tables, and displays before buying the two books I knew I was going to buy (but, as always, I was tempted). I also added a bunch of books to my Goodreads to-read section. Sighs. I bought the Handmaid&amp;rsquo;s Tale, which I don&amp;rsquo;t own and need to re-read, and Bridget Jones&amp;rsquo;s Diary- which I have never read! Honest: I have high expectations there. We&amp;rsquo;ll see when I get around to them. All my library holds came in at the same time, so prioritizing is an issue-&lt;/p&gt;
-
-&lt;p&gt;Next stop was literally right next door, Pier One. I use to buy wine glasses there EVERY YEAR. Seriously, they have these beautiful huge goblet like glasses (but more regular size than toyish)&amp;hellip; with the perfect thin glass lip. Every year I would break at least 2, and replace them after Christmas. Until last year, when I bought a bunch of stainless steel (not as great, but still pretty great with the added bonus of not breaking into my disposal).  So this year, I found a soft fluffy pillow and a candle. Trying to be minimal means that I look for things that don&amp;rsquo;t take up too much space, and are functional.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_shopping.jpg&#34; alt=&#34;shopping&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Since I was in the area- I also stopped at Ikea. I needed some food storage containers, and you can&amp;rsquo;t beat their prices. I also stumbled upon a blanket/pillow cover display and got a few things to change up what I had on the couch (going along with the Pier 1 pillow).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_couch.jpg&#34; alt=&#34;couch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then, in the afternoon- I hit a wall. Just totally completely exhausted! I took a really long nap with my new pillow and blanket. So that was great. It was also still really nice out- so for the third day in a row, I was able to open the windows and get some fresh air in the apartment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_window.jpg&#34; alt=&#34;dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday night I went to an info session at Turing. (AND I HAVE SO MUCH NEWS FOR THAT WORLD- but that&amp;rsquo;ll come in a later post). For now, just know that I got to wear my new shoes that I got for Christmas! Zac&amp;rsquo;s sister gave them to me and I love them!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_shoes.jpg&#34; alt=&#34;dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Before Zac got home on Thursday night I headed to Happy Hour at Avanti&amp;rsquo;s with a friend. She invited a huge group, and everyone brought more people. There ended up being like 20-25 of us, and everyone was really great. Before, every time we went to Avanti, I would look at the bar area thinking &amp;lsquo;I need to get here some night&amp;rsquo;, and it was definitely what I expected. I can&amp;rsquo;t wait to take Zac there some time for drinks- and to introduce him to some of the people I met that night!  When Zac got on the train, I walked the two blocks home. I was so busy talking, I got NO pictures. I&amp;rsquo;ll have to work on that.&lt;/p&gt;
-
-&lt;p&gt;On Friday, I got the most unexpected and perfectly timed box ever. My dear friend, who I admire and am so lucky to know, sent me a holiday/care package. We&amp;rsquo;ve been talking a lot about life. Actually, we always do, and always will. I&amp;rsquo;m lucky to know her.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_gift1.jpg&#34; alt=&#34;gift&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_gift2.jpg&#34; alt=&#34;gift&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac was back from LA, so in the morning we took Rex for a walk and grabbed coffee at ink.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_ink.jpg&#34; alt=&#34;ink&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday I watched a couple episodes of Lemony Snicket- while doing some work. After Zac got off work- we FINALLY went and saw Rogue One! IT WAS GREAT. We had tried to go for weeks, but the AMC Flatiron was totally sold out. I&amp;rsquo;m a sucker for the lay down movie theater, so we kept waiting. We loved it!&lt;/p&gt;
-
-&lt;p&gt;Saturday we went for a long walk. It was nice outside, but not great. We walked to a few different areas we hadn&amp;rsquo;t explored yet, so that was nice.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_train.jpg&#34; alt=&#34;gift&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That night, we had tickets to the Mammoth game! We use to love going to lax games in Buffalo, and were pretty excited to have a team here in Denver. First we stopped for drinks and apps at a place called Public School 303. It was adorable! Decorated for school- they have flash cards on the walls, and menus that look like composition notebooks. Plus, the food and drinks (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; liter of wine on happy hour!) were fantastic. The wings reminded me a place my brother and I went as kids- they had the BEST wings, so that&amp;rsquo;s a high compliment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_ps303.jpg&#34; alt=&#34;public school&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_ps3032.jpg&#34; alt=&#34;public school&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we walked to the game and had so much fun! I can&amp;rsquo;t wait to go again. It was a really close game too- we won.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_pc.jpg&#34; alt=&#34;pepsi center&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_lax.jpg&#34; alt=&#34;mammoth&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday was FOOTBALL DAY. The games were CRAZY! I am stoked that the Steelers won, and I can&amp;rsquo;t wait to cheer them on this weekend (and every other day, GO STEELERS!)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_dog_nap.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The rest of the weekend was filled in with dog cuddles, walks, and trips to the gym. We also started watching The Man at High Castle, and I think that&amp;rsquo;s going to be a great show.&lt;/p&gt;
-
-&lt;p&gt;For now, I&amp;rsquo;ll wrap up.. I have a delicious smelling coconut lemon curry to go eat. Exciting news coming soon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://libmb.github.io/images/2017_01/2017_01_17/2017_01_17_lcsoup.jpg&#34; alt=&#34;soup&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
