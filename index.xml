@@ -6,8 +6,36 @@
     <description>Recent content on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mihshhehl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Name.com HACKATHON!</title>
+      <link>https://mihshhehl.github.io/post/2017_04_19/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_04_19/</guid>
+      <description>&lt;p&gt;Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.&lt;/p&gt;
+
+&lt;p&gt;Our team name was DARE (given to us by the host). We got started by brainstorming ideas- and narrowing it down to our favorite: Platform as an Unreliable Service (going for humor here).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/DARE.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/LOGO.png&#34; alt=&#34;Doobernetes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From there, things got pretty crazy, pretty quick. We had too many bodies- with not enough to do, AND we went with a technology that only two team members were familiar with (angular). SO. It was an experience. I learned A LOT and will definitely take that into the next hackathon that I particpate in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/beerpizza.png&#34; alt=&#34;Nurishment&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/group.jpg&#34; alt=&#34;Group working&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the end, it was fun. Our project was- ahhem- not the best. But we worked as a team and got something presentable. Watching the presentations was a blast- and we had a HUGE 46 turn out. In the end, I&amp;rsquo;m excited for the next hackathon challenge!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/selfie.jpg&#34; alt=&#34;ME&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/cover.jpg&#34; alt=&#34;EVERYONE&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Immigrants Make America Great</title>
@@ -1007,50 +1035,6 @@
 &lt;p&gt;Life is PRETTY CRAZY around here, but I am loving every bit of it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_05/dog.jpg&#34; alt=&#34;Insert Random Dog Pic here&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>gwd46 m1w3</title>
-      <link>https://mihshhehl.github.io/post/2017_03_04/</link>
-      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mihshhehl.github.io/post/2017_03_04/</guid>
-      <description>&lt;p&gt;Week three of module one is officially complete! At the end of the week, I am feeling pretty great!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/kiki.jpg&#34; alt=&#34;kiki&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.&lt;/p&gt;
-
-&lt;p&gt;This week we had Roberto as our floating instructor. We got to hang with his AWESOME dog Iago-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/iago.jpg&#34; alt=&#34;Iago the Dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday we covered HTTP and AJAX. AJAX is super helpful. Wednesday we moved on to CSS Frameworks (and had us all like, wth css!) and promises (which had us like, wth is this?). Covering CSS frameworks was so great- like a really neat shortcut to move faster when needed. Following that up with Promises left me feeling like it went right over my head. Luckily, the instructor came back on Friday and led a break out on promises to clarify and dig a bit deeper.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/http.jpg&#34; alt=&#34;HTTP Whiteboard&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we discussed higher order functions and the accumulator pattern. I loved these exercises. I pretty much use AP for all of the kata&amp;rsquo;s I try to solve on Code Wars, so I felt pretty equipped to tackle the assessment. Between HoF and AP, we had a ton of npm tests to pass. It was super satisfying to see those green checkmarks.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/AP.png&#34; alt=&#34;AP Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/HOF.png&#34; alt=&#34;HoF Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was once again, scrimmage day! We started off with a guest speaker, and then we did a mini hackathon with a partner. We were trying to prep for the event on Saturday which most of the class signed up for. My partner and I used two API&amp;rsquo;s (punk beer and reddit) to make a random night generator. We managed to get it all functioning and throw up a materialize layout before time was up and we had to present. Afterwards, I was pretty amazed by what we could accomplish in a few hours- and was ready to participate in the Hack the Planet hackathon on Saturday.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/randomnight.png&#34; alt=&#34;Scrimmage Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of the day Friday, we had another speaker. A Galvanize Instructor who had their last day and wanted to share their experience as a student &amp;gt; resident &amp;gt; instructor &amp;gt; software developer. All three webdev cohorts got together for it, and had a huge Friday stand down which Kyle led.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/standdown.jpg&#34; alt=&#34;Group Stand Down&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After class on Friday, our resident organized a mentor/mentee happy hour (during First Friday Taco &amp;amp; Tequila hour) so we all went up to the fourth floor to meet some past students, current students and to of course enjoy some tacos!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/tacos.jpg&#34; alt=&#34;Tacos&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/tequila.jpg&#34; alt=&#34;tequila&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Over all it was a really busy week- but I feel like we are learning so much. I&amp;rsquo;m going to need to set aside time during break week to review all of the things- but I am still just super happy to be learning.&lt;/p&gt;
 </description>
     </item>
     
