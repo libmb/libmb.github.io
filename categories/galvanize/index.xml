@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galvanize on Shelter&#39;s House</title>
-    <link>https://mihshhehl.github.io/categories/galvanize/index.xml</link>
+    <link>https://mihshhehl.github.io/categories/galvanize/</link>
     <description>Recent content in Galvanize on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mihshhehl.github.io/categories/galvanize/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mihshhehl.github.io/categories/galvanize/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>gwd46 m2w5</title>
@@ -14,63 +17,9 @@
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_29/</guid>
-      <description>
-
-&lt;p&gt;WOW. Let&amp;rsquo;s talk about a fast week. A hectic, crazy, week! Group projects are great, and in some ways hard! That being said, WE MADE IT.&lt;/p&gt;
-
-&lt;p&gt;We started off our week by reviewing our pencil work. We established our project, our ERD, the wireframes and user stories. We combined all our ideas- and made sure that each of us had the same understanding of MVP and stretch goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/tracker.png&#34; alt=&#34;user stories&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/ERD.jpg&#34; alt=&#34;ERD&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From there- this whole week was this:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Group Stand up (review yesterdays work, establish daily MVP, make a plan)&lt;/li&gt;
-&lt;li&gt;Pair program until Lunch&lt;/li&gt;
-&lt;li&gt;git push, merge, and deploy&lt;/li&gt;
-&lt;li&gt;Regroup after Lunch&lt;/li&gt;
-&lt;li&gt;Pair program until 4&lt;/li&gt;
-&lt;li&gt;git push, merge and deploy&lt;/li&gt;
-&lt;li&gt;Acceptance with our product owner&lt;/li&gt;
-&lt;li&gt;Group stand down&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We were really ambitious in our project- and didn&amp;rsquo;t get exactly where we wanted. That being said- we hit some really tough pain points- and worked through them as a team.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/wb.jpg&#34; alt=&#34;whiteboard&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I didn&amp;rsquo;t really see many other people this week! I still came in on Tuesday, and Lena and I caught up. It&amp;rsquo;s becoming a therapeutic routine.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/t-early.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rex joined us one afternoon- He got a bone from the pet store across the street- and just relaxed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/rex.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/rex2.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday was the last day of coding for the project. I grabbed a latte at lunch, and took the best group picture ever:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/habit.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/peach-thur.jpg&#34; alt=&#34;group&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday we PRESENTED FIRST!, enjoyed the other presentations, did a group retro and stand down and THAT IS IT. PROJECT WEEK WAS OVER. At lunch, practically all of us headed over to DBC for burger food truck- and beers for everyone else.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/dbc.jpg&#34; alt=&#34;DBC&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lena suggested we grab a glass of wine after class- to save money we just grabbed wine at the liquor store and had a drink on the balcony! She really is a dose of sanity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/wine.jpg&#34; alt=&#34;wine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And guys, that is it. WE&amp;rsquo;RE HALFWAY DONE. It&amp;rsquo;s crazy.&lt;/p&gt;
-
-&lt;p&gt;Oh, and check out:&lt;/p&gt;
-
-&lt;h2 id=&#34;the-46-open-https-infinite-shelf-75058-herokuapp-com&#34;&gt;&lt;a href=&#34;https://infinite-shelf-75058.herokuapp.com/&#34;&gt;The 46 Open!&lt;/a&gt;&lt;/h2&gt;
-</description>
+      <description>WOW. Let&amp;rsquo;s talk about a fast week. A hectic, crazy, week! Group projects are great, and in some ways hard! That being said, WE MADE IT.
+We started off our week by reviewing our pencil work. We established our project, our ERD, the wireframes and user stories. We combined all our ideas- and made sure that each of us had the same understanding of MVP and stretch goals.
+From there- this whole week was this:</description>
     </item>
     
     <item>
@@ -79,46 +28,8 @@
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_22/</guid>
-      <description>&lt;p&gt;This week we rolled through information! We had a lot to learn before projects next week- and we all had some sort of anxiety about either getting groups, or starting the project. This week we dived deeper into SQL joins, auth &amp;amp; auth, REST/CRUD, server side validation and FINALLY got our teams.&lt;/p&gt;
-
-&lt;p&gt;When we came in on Tuesday, we some new writing on our wall. A new goal is for all of us to add to the wall before graduation. Because, we&amp;rsquo;re the best cohort ever. SCWAAAAA.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/awesome46.jpg&#34; alt=&#34;wall&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday WE WON FEBRUARY. This game is epic, and I LOVE IT SO MUCH.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/m-pan.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday after class there was a happy hour to welcome the NEW COHORT! &lt;strong&gt;G51&lt;/strong&gt; I met a few new students, and hung around for the start of a meetup.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/m-hh.jpg&#34; alt=&#34;Happy Hour&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The rest of the week was a blur of blessons (breakout lessons) and diplomacy. We started a 15 person game, and it&amp;rsquo;s pretty intense.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/dipsomacy.jpg&#34; alt=&#34;Diplomacy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac was on business this week, so Rex came in one day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/grex.jpg&#34; alt=&#34;Rex at Galvanize&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was the day we had WAITED ALL QUARTER FOR. But, we had to wait a little longer. In the morning, I headed up to the fourth floor for a latte. We have baristas who charge tips for coffee drinks m/f. This was the first time I went, and I&amp;rsquo;ll be there again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/flatte.jpg&#34; alt=&#34;Latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We started the day with a group standup! Kyle is so good at leading these. Then we settled into classroom &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; for a three cohort alumni panel! It was long, but there was a lot of good information in there- from people who just graduated, to those that have been in the field for a couple years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/fSU.jpg&#34; alt=&#34;Group Standup&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/fAP.jpg&#34; alt=&#34;Alumni Panel&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;THEN we got our groups! Our groups are for the Q2 project- which is a group project, and we&amp;rsquo;ll be working together all day, every day, next week! I got teamed with James, Jules &amp;amp; Jackson. I&amp;rsquo;m pretty psyched to be working with them. James and I TA JS Foundations, but I haven&amp;rsquo;t worked with the other two yet. It should be a fun week.&lt;/p&gt;
-
-&lt;p&gt;After groups were assigned, we spent the day brainstorming project ideas and submitting our proposal. Then we set some group guidelines. For instance- this weekend we&amp;rsquo;ll be penciling-before-pixeling (Wireframes, ERD, feature lists, user stories), but after that- we&amp;rsquo;ll be working in class only and trying not to take work home. We&amp;rsquo;re also going to rotate scrum master everyday.&lt;/p&gt;
-
-&lt;p&gt;So, here goes the LAST WEEK OF Q2!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/prop.png&#34; alt=&#34;Proposal&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>This week we rolled through information! We had a lot to learn before projects next week- and we all had some sort of anxiety about either getting groups, or starting the project. This week we dived deeper into SQL joins, auth &amp;amp; auth, REST/CRUD, server side validation and FINALLY got our teams.
+When we came in on Tuesday, we some new writing on our wall. A new goal is for all of us to add to the wall before graduation.</description>
     </item>
     
     <item>
@@ -127,26 +38,8 @@
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_19/</guid>
-      <description>&lt;p&gt;Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.&lt;/p&gt;
-
-&lt;p&gt;Our team name was DARE (given to us by the host). We got started by brainstorming ideas- and narrowing it down to our favorite: Platform as an Unreliable Service (going for humor here).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/DARE.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/LOGO.png&#34; alt=&#34;Doobernetes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From there, things got pretty crazy, pretty quick. We had too many bodies- with not enough to do, AND we went with a technology that only two team members were familiar with (angular). SO. It was an experience. I learned A LOT and will definitely take that into the next hackathon that I particpate in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/beerpizza.png&#34; alt=&#34;Nurishment&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/group.jpg&#34; alt=&#34;Group working&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the end, it was fun. Our project was- ahhem- not the best. But we worked as a team and got something presentable. Watching the presentations was a blast- and we had a HUGE 46 turn out. In the end, I&amp;rsquo;m excited for the next hackathon challenge!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/selfie.jpg&#34; alt=&#34;ME&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/cover.jpg&#34; alt=&#34;EVERYONE&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.
+Our team name was DARE (given to us by the host).</description>
     </item>
     
     <item>
@@ -155,42 +48,10 @@
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_15/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t take my pictures this week at Galvanize. Must have been too busy learning or something&amp;mdash;-&lt;/p&gt;
-
-&lt;p&gt;We dived into even more topics this week! Including DATABASES, psql, ddl/ddm, and server side applications.&lt;/p&gt;
-
-&lt;p&gt;This week was all about the breakouts. Attending smaller size classes, for shorter periods, on concentrated topics. It had a few hitches, but wasn&amp;rsquo;t the worst.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/breakout.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday morning we had a guest speaker- Teagan. A BA developer at massroots- who has automated her entire home. I looked forward to meeting her, and wasn&amp;rsquo;t let down. She&amp;rsquo;s really authentic and in that, inspiring.&lt;/p&gt;
-
-&lt;p&gt;At lunch we started something REALLY exciting. A group of us pitched in to buy Pandemic Legacy. Mondays at lunch we&amp;rsquo;ll be playing. This week, WE WON JANUARY.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/pan1.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/pan2.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday morning I, once again, grabbed a photo from the fourth floor balcony.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/tues.jpg&#34; alt=&#34;sunrise&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was a pretty nice week. Zac and Rex walked me to school in the mornings.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/commutebuds.jpg&#34; alt=&#34;park&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And we got a bunch of work done outside.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/fourth.jpg&#34; alt=&#34;fourth&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rex had a half day stretch at Galvanize, but didn&amp;rsquo;t get enough morning exercise to last a whole day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/rex.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of the week, our scrimmage was a &lt;a href=&#34;https://intense-inlet-58162.herokuapp.com/&#34;&gt;reddit clone.&lt;/a&gt; I decided to go with a hike theme. It was a lot of fun to put together.&lt;/p&gt;
-
-&lt;p&gt;Only one more week until projects? REALLY?&lt;/p&gt;
-</description>
+      <description>I didn&amp;rsquo;t take my pictures this week at Galvanize. Must have been too busy learning or something&amp;mdash;-
+We dived into even more topics this week! Including DATABASES, psql, ddl/ddm, and server side applications.
+This week was all about the breakouts. Attending smaller size classes, for shorter periods, on concentrated topics. It had a few hitches, but wasn&amp;rsquo;t the worst.
+Monday morning we had a guest speaker- Teagan. A BA developer at massroots- who has automated her entire home.</description>
     </item>
     
     <item>
@@ -199,56 +60,9 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_08/</guid>
-      <description>&lt;p&gt;Week two of Mod 2 definitely picked up speed. After spending last week reviewing Q1, this week we dived into some new concepts- all gearing up for backend. We started: ES6, Express &amp;amp; Body parser.&lt;/p&gt;
-
-&lt;p&gt;Monday and Tuesday it was pretty cold. I really don&amp;rsquo;t mind being stuck in the basement when it&amp;rsquo;s snowy outside!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/Burst_Cover_GIF_Action_20170404070839.gif&#34; alt=&#34;snowy commute&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To start the week off on the right foot, I brought in CUPCAKES. Vanilla cupcakes with peanut buttercream frosting. NOMMS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/cupcake.jpg&#34; alt=&#34;Cupcake&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/cupcake2.jpg&#34; alt=&#34;Cupcakes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday we had a guest speaker- &lt;a href=&#34;https://www.blinker.com/&#34;&gt;blinker&lt;/a&gt;. The speaker answered a lot of great questions. Since I got in a few minutes late, I ended up sitting in the back, petting Molly, the whole time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170403_134801.jpg&#34; alt=&#34;Moll Doll&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday we just got covered in snow. It was early day- so I went up the the fourth floor first to grab some untouched snow pictures! It&amp;rsquo;s really beautiful. And easier to appreciate when you know it won&amp;rsquo;t last.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_071416.jpg&#34; alt=&#34;Snow1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_071435.jpg&#34; alt=&#34;Snow&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday after foundations we started streaming George. He&amp;rsquo;s going to start using Twitch to show off some skills with CSS. I&amp;rsquo;m excited to catch a full video sometime, I feel like I could learn a lot from him.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_200349.jpg&#34; alt=&#34;Snow&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we had another gWomen lunch! We started white boarding, which is such a great exercise. I&amp;rsquo;m glad to be starting now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/r.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday it was finally starting to really warm up again. A bunch of us got some work down on the balcony- and hung around after for some Tacos!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/fourth.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/prettyfourth.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/kiki.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wrapped up the week with a latte from Brider &amp;lt;3&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/brider.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday scrimmage was a &lt;a href=&#34;https://idea-keeper.herokuapp.com/&#34;&gt;thought collector&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/scrim.png&#34; alt=&#34;screenshot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/z.jpg&#34; alt=&#34;M&amp;lt;3Z&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And week 2 is done, three more to go this quarter!&lt;/p&gt;
-</description>
+      <description>Week two of Mod 2 definitely picked up speed. After spending last week reviewing Q1, this week we dived into some new concepts- all gearing up for backend. We started: ES6, Express &amp;amp; Body parser.
+Monday and Tuesday it was pretty cold. I really don&amp;rsquo;t mind being stuck in the basement when it&amp;rsquo;s snowy outside!
+To start the week off on the right foot, I brought in CUPCAKES. Vanilla cupcakes with peanut buttercream frosting.</description>
     </item>
     
     <item>
@@ -257,64 +71,8 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_01/</guid>
-      <description>&lt;p&gt;I CAN&amp;rsquo;T BELIEVE ITS ALREADY QUARTER TWO. WHOOOP! Time is FLYING! The walk in on Monday morning felt pretty good. Ready to start again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/m.walk.jpg&#34; alt=&#34;Platte St&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday and Tuesday we were reviewing Q1 materials to prep for our Wednesday Assessment. Tuesday was early day again. Proof that I was totally off my game is that I accidentally brewed two pots of coffee in one pot. I came out and saw it overflowing onto the counter- &lt;strong&gt;ugh!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/t.coffee.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/t.morning.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday was assessment- and I loved it. We were given a wireframe and user stories and the whole day to deliver the product. It was a long day, but I enjoy the full projects that we work on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/w.assessment.jpg&#34; alt=&#34;Wednesday assessment&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/w.ass2.jpg&#34; alt=&#34;Stories&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday and Friday our apartment complex was doing fire alarm testing so Rex was a gSchool student!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex2.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex3.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s actually really nice to bring Rex in, because during breaks I go outside with him. I feel like the fresh air does good!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.outside.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.outside2.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we learned a couple new things- first we covered Node.js- I have to take some time this weekend to review that in more depth..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.node.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We were also introduced to npm, and they did an AWFUL but very helpful exercise with evil npm packages. Pretty much- I know to review and research anything I ever download from npm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.npm.jpg&#34; alt=&#34;npm&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday gWomen held a lunch- it was nice to get together and chat. I look forward to meeting with the ladies more! I did think it was funny because a few of us had &amp;lsquo;packed&amp;rsquo; lunches which were really just like food items in their original packaging.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.lunch.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was a scrimmage day. We did paired programming and I LOVED IT. My partner and I worked together really well, and avoided so many small mistakes by working together. We finished pretty early, and felt good about what we did!&lt;/p&gt;
-
-&lt;p&gt;Zac brought me some lunch- Protos Pizza! I love it so much, and was crazy grateful that he brought it for me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.lunch.jpg&#34; alt=&#34;pizza lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.lunch2.jpg&#34; alt=&#34;pizza lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the afternoon, I took Rex home. We got an email that alarm testing was done- and there was a large dog that was giving him some anxiety. We headed home in the rain, and on the way back I grabbed a latte at Ink for warmth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.rain.jpg&#34; alt=&#34;rain&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.latte.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All in all, it was a slower week for Galvanize. But I think we needed it, and I still learned a few important things. I think this quarter is going to be really hard, but I&amp;rsquo;m excited to be learning again!&lt;/p&gt;
-</description>
+      <description>I CAN&amp;rsquo;T BELIEVE ITS ALREADY QUARTER TWO. WHOOOP! Time is FLYING! The walk in on Monday morning felt pretty good. Ready to start again!
+Monday and Tuesday we were reviewing Q1 materials to prep for our Wednesday Assessment. Tuesday was early day again. Proof that I was totally off my game is that I accidentally brewed two pots of coffee in one pot. I came out and saw it overflowing onto the counter- ugh!</description>
     </item>
     
     <item>
@@ -323,53 +81,8 @@
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_18/</guid>
-      <description>&lt;p&gt;Wow, what a week! It seriously FLEW by. First, I&amp;rsquo;ll review some pictures from the week, then get into the nitty gritty of projects&amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;After the weekend, I decided that Monday was the best day to bring Rex into class. It works for our schedule, and fits better with the general flow at school. He only stayed a half day- because, projects. Also, HE SHAMED THE FAMILY by deciding to mark a classmates bag. UGH REX WTH, MAN! The guy was super generous and I still feel awful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/m.rex.jpg&#34; alt=&#34;rexy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday morning we had a guest speaker- Dish Network! I only went because I was assured that I could sit in the back and do work - that it wouldn&amp;rsquo;t be rude. I guess this is a good time to say that I did NOTHING special or extra this week. I didn&amp;rsquo;t attend any meet ups or go to breakout sessions. It was a busy week, and I prioritized what I thought was best for me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/m.dish.jpg&#34; alt=&#34;Dish&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pretty much all week I worked upstairs, getting sun and fresh air.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/t.upstairs.jpg&#34; alt=&#34;Up&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/t.lion.jpg&#34; alt=&#34;Dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/w.balcony.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;OK, BEFORE I jump into Friday, I&amp;rsquo;ll cover the project.&lt;/p&gt;
-
-&lt;p&gt;Quarter one projects are the embodiment of what we&amp;rsquo;ve learned this quarter. I submitted two ideas last Friday, and was directed to a certain one. What did I work on all week? GX!: Gifting Experiences. I decided to make something that was important to me, and perhaps would make life a little easier. I am really passionate about gifting experiences rather than material items- and in the past few years have gained some insight and experience in doing so. My idea was to create a web app that would allow a user to sort through gifts and return ones that fit with their scenario.&lt;/p&gt;
-
-&lt;p&gt;The requirements included: valid HTML, CSS, JavaScript and CSS Framework. Connect to at least one external API, and deploy to a production environment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.timeline.jpg&#34; alt=&#34;timeline&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, it took me all week. I used two API&amp;rsquo;s (for weather and location) and by Wednesday night, I had a MVP (minimal viable product). Thursday I cleaned it up- and Friday, presented! Being honest, it could use some work and in the future, I&amp;rsquo;d like to do things differently (for instance, NOT use a CSS framework- but design the site myself).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/api.png&#34; alt=&#34;Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Top things I learned?: 1. Local storage! Whoop. 2. When generating ideas- consider how much of the outcome relies on your creating content. The main product of the web app I created was written rather than pulled. I could spend hours and hours updating that content to make it better; and the product is that content! In the future, I will highly consider that.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.wireframe.jpg&#34; alt=&#34;wireframe&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was presentation day. We submitted our projects (Github, deployed and wireframes)- and spent about 2-3 minutes demo-ing our product. I was BLOWN AWAY by my awesome cohort. Like, way to go guys. After, we were released for lunch and to create a YouTube video tutorial. About an hour before we were due back for retro- we were all finished and a bunch of us sat outside at DBC across the street.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.DBC.jpg&#34; alt=&#34;DBC&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we did Retro.. and PROJECT WEEK WAS COMPLETE.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.retro.jpg&#34; alt=&#34;RETRO&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That means that I AM ON BREAK. One week. I &lt;strong&gt;plan&lt;/strong&gt; on getting a lot done- we&amp;rsquo;ll see!&lt;/p&gt;
-
-&lt;p&gt;So, you can check out my deployed web app here:
-&lt;a href=&#34;https://giftx-d0791.firebaseapp.com/index.html&#34;&gt;GX: Gifting Experiences&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Wow, what a week! It seriously FLEW by. First, I&amp;rsquo;ll review some pictures from the week, then get into the nitty gritty of projects&amp;hellip;.
+After the weekend, I decided that Monday was the best day to bring Rex into class. It works for our schedule, and fits better with the general flow at school. He only stayed a half day- because, projects. Also, HE SHAMED THE FAMILY by deciding to mark a classmates bag.</description>
     </item>
     
     <item>
@@ -378,94 +91,8 @@
       <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_11/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/m.donut.jpg&#34; alt=&#34;Two boxes of Donuts!&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday morning two classmates pulled together to bring in a BUNCH of doughnuts! They are for sure not on the plan- but I had one and it literally made me happy- so there&amp;rsquo;s that. (ps. they were awesome for doing that).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/m.guest.jpg&#34; alt=&#34;Guest Speaker&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We started off the week with a guest speaker- a UX designer! It was a really interesting talk- and I appreciate seeing and hearing from different people in the tech field- who work in the various aspects of web development.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/model.jpg&#34; alt=&#34;model map&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Topic wise- we covered models and deployed to Firebase. It was a gentle way to start the week! (And I think Kiki is warming up to me!)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/m.molly.jpg&#34; alt=&#34;Mollys desk&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/m.kiki.jpg&#34; alt=&#34;Kiki laying&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Tuesdays, I get in early to do some side work with a classmate- we kind of review the things we&amp;rsquo;ve gone over and talk about anything we&amp;rsquo;re stuck on. I was first in the basement, so I made all the fresh coffee.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.coffee.jpg&#34; alt=&#34;Coffee Pots&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also decided to take over our white boards. They were getting pretty messy and hard to read- so I decided to clean them up a bit and bring a little inspiration to the walls!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.board.jpg&#34; alt=&#34;White boards&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.stars.jpg&#34; alt=&#34;White Board image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Since I go in early, I have a really hard time eating breakfast before hand. I pretty much just suck at getting up in the morning. Luckily- I know myself and meal prep! SO I brought breakfast and enjoyed it in the classroom. (Overnight oats for the win).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.break.jpg&#34; alt=&#34;Breakfast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Topic wise, we covered wireframes and closures&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.wireframe.jpg&#34; alt=&#34;wireframing&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was feeling AWFUL on Tuesday. I actually contemplated leaving the entire day,  but my pain subsided after lunch and I pulled it off. Since I was feeling crappy- and wear my emotions on my sleeve- Jordan gave me his origami for the day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/t.origami.jpg&#34; alt=&#34;Origami&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;He makes these everyday! Out of bus passes and random papers. They are AMAZING. I love them and wish I could make these things without looking them up..&lt;/p&gt;
-
-&lt;p&gt;Wednesday Izabella brought Ziggy to class! He was super sweet.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/w.ziggy.jpg&#34; alt=&#34;Dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was INTERNATIONAL WOMENS DAY and during stand up George gave a really, really nice little speech about it. (And I was really glad that I wasn&amp;rsquo;t the first to mention it during interestings!) Anyway, there were a lot of events going on that night- but I couldn&amp;rsquo;t make any of them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/w.iwd.jpg&#34; alt=&#34;IWD Event&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I finally completed a KATA submission on Wednesday, but it won&amp;rsquo;t load. I&amp;rsquo;m guessing that I&amp;rsquo;m missing something-  but i&amp;rsquo;ll have to come back to that later.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/w.codewar.jpg&#34; alt=&#34;Codewars&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday was BEAUTIFUL. I spent my free time outside. For lunch, Zac met me a Briders. They have a baby kale and apple salad he&amp;rsquo;s been raving about- so I had to try it so that we can make it at home! (it was actually fantastic).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/r.lunch.jpg&#34; alt=&#34;Zac at Lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During lecture, we discussed agile workflows and user stories. I was super excited to move into this discussion - because it&amp;rsquo;s such an important aspect of work at Pivotal and I had heard so much about it. Plus, we got to use Pivotal Tracker for logging user stories- it was a cool intersection of Zac&amp;rsquo;s life and my schooling!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/r.agile.png&#34; alt=&#34;Agile&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All afternoon, we working on assessments and brainstormed projects on the balcony. As mentioned, it was BEAUTIFUL!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/r.group.jpg&#34; alt=&#34;Outside&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was PROPOSAL DAY. Oh gosh- FOUR WEEKS DONE? When did that happen&amp;hellip;. Week five is all about our personal project- so on Friday we wrote up proposals- submitting them for review and made revisions as needed. Mine ended up getting approved a couple hours before the end of the day- but I&amp;rsquo;ll save that for next week. What was REALLY exciting about Friday was that IT WAS REXY&amp;rsquo;S FIRST DAY AT GALVANIZE. Here he is being good boy at stand up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.rexstand.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We had a guest speaker- and he was pretty vocal during that (opps). He just wanted some water&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.rexspeaker.jpg&#34; alt=&#34;Rex during speaker&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After that, we ironically did a agile exercise and it included a lot of tennis balls. Rex was super good though. And the exercise was awesome.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.tennis.jpg&#34; alt=&#34;Tennis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;He pretty much just slept (because let&amp;rsquo;s be honest, I took him for a run before we went in).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.rexsleep.jpg&#34; alt=&#34;Sleeping rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We met Zac for lunch, and Rex went home with him after that- so that I could focus on some work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.lunch.jpg&#34; alt=&#34;Rex hotdog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So- that was week Four. A relatively easy going week to lead into projects. A great step with Rex. Lots of sun and fun. Here&amp;rsquo;s our updated Q1 learn map!:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_11/f.learn.jpg&#34; alt=&#34;Whiteboard map&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Monday morning two classmates pulled together to bring in a BUNCH of doughnuts! They are for sure not on the plan- but I had one and it literally made me happy- so there&amp;rsquo;s that. (ps. they were awesome for doing that).
+We started off the week with a guest speaker- a UX designer! It was a really interesting talk- and I appreciate seeing and hearing from different people in the tech field- who work in the various aspects of web development.</description>
     </item>
     
     <item>
@@ -474,62 +101,8 @@
       <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_06/</guid>
-      <description>&lt;p&gt;HACK THE PLANET WAS SO MUCH FUN.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/hacktheplanet.png&#34; alt=&#34;Logo for Hack the Planet&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/me.jpg&#34; alt=&#34;Selfie&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So Saturday I participated in my FIRST EVER HACKATHON. It was also the first ever gSchool hackathon. The event started around 8:30, but I showed up early to get put into a team. Since I&amp;rsquo;m still new to this world, and the event wanted to encourage cross cohort/location collaboration- I decided to go in as a single and get paired up with a group.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/team.jpg&#34; alt=&#34;Group Pic&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And it worked out really great! Look at this crew. Molly is in g46 with me, two teammates are in g41 (about a month ahead of us), and one team member is a data science student. We were pretty well rounded.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/molly.jpg&#34; alt=&#34;Molly and I&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After everyone was grouped up- we got the rules from Josh! Goal was to use a NASA API and make a web app&amp;ndash; they amended this later to be any API (because reasons I don&amp;rsquo;t know..?).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/rules.jpg&#34; alt=&#34;Josh giving rules&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At 9:30 we got started. We brainstormed a bunch of ideas until one clicked. Molly had taken a meteorology class in undergrad, and her teacher watched the forecast for hail. He would collect it and make margaritas- according to him they make the best because they have ozone in them. Our idea- Hail Ya! was born.&lt;/p&gt;
-
-&lt;p&gt;The concept was to pull weather data- and plan a margarita party around forecasted hail!&lt;/p&gt;
-
-&lt;p&gt;First hiccup was that there was no hail forecasted in the US for, like, ever. Winter? SO we switched gears-  a web app that would pull 1. your location and 2. the weather forecast. We would pull the precipitation type and tell you what kind of drink to make based on what &amp;ldquo;natural&amp;rdquo; ingredients you could use!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/diagram.jpg&#34; alt=&#34;whiteboard planning&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We split off- and I started working on design. With the time crunch, I decided to go with &lt;em&gt;what I knew&lt;/em&gt; and so you can see- it mirrors what I created for this blog!:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/hailcomp.jpg&#34; alt=&#34;picture of computer&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I created 4 recipes based on the results for rain, snow, sun and the ultimate goal: hail!&lt;/p&gt;
-
-&lt;p&gt;At 1:30 (pizza was delivered at noon), I wrapped up the design pieces and started collaborating on the CSS/HTML pages. At 3pm, we had finished our forms and layout.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/screenform.png&#34; alt=&#34;Finished form&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/screenresult.png&#34; alt=&#34;Finished result page&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then it was crunch time. Submission was due at 4:30 and we were struggling to get the last functions working.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/struggle.jpg&#34; alt=&#34;struggles&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With minutes left we finished, and with seconds left we cleaned up our merge files and pushed our product to Github!&lt;/p&gt;
-
-&lt;p&gt;Then it was time to present- we were up first, which was actually awesome. I don&amp;rsquo;t have a picture of us, but I do have one of the team that won (they did AWESOME):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_06/present.jpg&#34; alt=&#34;Winning team presentation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Seriously everyone did awesome. It was great to sit back and see what everyone had created- what they came up with and how they executed it! There wasn&amp;rsquo;t a single bad project.&lt;/p&gt;
-
-&lt;p&gt;We didn&amp;rsquo;t win, but I wouldn&amp;rsquo;t have changed anything. I had a great time with my team. I take away this: TIME FLIES SO FAST. I can&amp;rsquo;t believe we were there, seriously working, for 8 hours. But I also can&amp;rsquo;t believe what we were able to accomplish either.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m excited for the next round- and to find a Hackathon I can enter with Zac.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To end, I slept over 10 hours Saturday night.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>HACK THE PLANET WAS SO MUCH FUN.
+So Saturday I participated in my FIRST EVER HACKATHON. It was also the first ever gSchool hackathon. The event started around 8:30, but I showed up early to get put into a team. Since I&amp;rsquo;m still new to this world, and the event wanted to encourage cross cohort/location collaboration- I decided to go in as a single and get paired up with a group.</description>
     </item>
     
     <item>
@@ -538,42 +111,9 @@
       <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_04/</guid>
-      <description>&lt;p&gt;Week three of module one is officially complete! At the end of the week, I am feeling pretty great!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/kiki.jpg&#34; alt=&#34;kiki&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.&lt;/p&gt;
-
-&lt;p&gt;This week we had Roberto as our floating instructor. We got to hang with his AWESOME dog Iago-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/iago.jpg&#34; alt=&#34;Iago the Dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday we covered HTTP and AJAX. AJAX is super helpful. Wednesday we moved on to CSS Frameworks (and had us all like, wth css!) and promises (which had us like, wth is this?). Covering CSS frameworks was so great- like a really neat shortcut to move faster when needed. Following that up with Promises left me feeling like it went right over my head. Luckily, the instructor came back on Friday and led a break out on promises to clarify and dig a bit deeper.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/http.jpg&#34; alt=&#34;HTTP Whiteboard&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we discussed higher order functions and the accumulator pattern. I loved these exercises. I pretty much use AP for all of the kata&amp;rsquo;s I try to solve on Code Wars, so I felt pretty equipped to tackle the assessment. Between HoF and AP, we had a ton of npm tests to pass. It was super satisfying to see those green checkmarks.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/AP.png&#34; alt=&#34;AP Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/HOF.png&#34; alt=&#34;HoF Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was once again, scrimmage day! We started off with a guest speaker, and then we did a mini hackathon with a partner. We were trying to prep for the event on Saturday which most of the class signed up for. My partner and I used two API&amp;rsquo;s (punk beer and reddit) to make a random night generator. We managed to get it all functioning and throw up a materialize layout before time was up and we had to present. Afterwards, I was pretty amazed by what we could accomplish in a few hours- and was ready to participate in the Hack the Planet hackathon on Saturday.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/randomnight.png&#34; alt=&#34;Scrimmage Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of the day Friday, we had another speaker. A Galvanize Instructor who had their last day and wanted to share their experience as a student &amp;gt; resident &amp;gt; instructor &amp;gt; software developer. All three webdev cohorts got together for it, and had a huge Friday stand down which Kyle led.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/standdown.jpg&#34; alt=&#34;Group Stand Down&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After class on Friday, our resident organized a mentor/mentee happy hour (during First Friday Taco &amp;amp; Tequila hour) so we all went up to the fourth floor to meet some past students, current students and to of course enjoy some tacos!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/tacos.jpg&#34; alt=&#34;Tacos&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_04/tequila.jpg&#34; alt=&#34;tequila&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Over all it was a really busy week- but I feel like we are learning so much. I&amp;rsquo;m going to need to set aside time during break week to review all of the things- but I am still just super happy to be learning.&lt;/p&gt;
-</description>
+      <description>Week three of module one is officially complete! At the end of the week, I am feeling pretty great!
+Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.
+This week we had Roberto as our floating instructor.</description>
     </item>
     
     <item>
@@ -582,44 +122,8 @@
       <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_02_24/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;A short week! Monday we were off for Presidents day! Tuesday we started off covering test based assessments. Right now, we are using them for some of our assessments- but I look forward to Q2 when we learn how to write them! Now we have an updated flow/map of Q1:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/flow.jpg&#34; alt=&#34;flow chart&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We also spent some more time on Responsive CSS. I will say that by the end of this week, I feel much better about the topic and like flex box a lot more. I also really respect mobile first design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/css.jpg&#34; alt=&#34;css&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Early this week I realized that I had some fierce competition on CodeWars. Its healthy, but is making me try harder katas and i&amp;rsquo;m trying to fit more in. One morning I worked on one for like three hours, and when I went to submit it I got a server error. No worries, I had it copied. It was funny.. (and I&amp;rsquo;m still losing)..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/codewars.jpg&#34; alt=&#34;codewars&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday we started JavaScript. I was super excited to switch it up and start another aspect of web dev. We covered the basics and did some assessments. During free time I headed upstairs to work from the &amp;lsquo;club galvanize&amp;rsquo; area. Stevie was in the classroom outside and I just love him.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/stevie.jpg&#34; alt=&#34;dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday after class, Galvanize had a guest speaker, the CTO at Rachio. I stayed to hear from him- about his company and the work they do (although, I have a friend who works there so I was already pretty familiar). It was really cool to see how involved their system is! If I had a yard I&amp;rsquo;d totally look into their product.&lt;/p&gt;
-
-&lt;p&gt;Thursday we learned DOM. I was not feeling well and it was really hard for me to process anything we learned. I took some medicine while on lunch and felt much better in the afternoon. I feel like I am getting better- but I still need to do some work to understand the basic concepts. I&amp;rsquo;ll probably dedicate some time to that this weekend.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/domfiddle.png&#34; alt=&#34;js fiddle screenshot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On my way to class Friday I stopped for a latte. Because friday. and latte.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/ink.jpg&#34; alt=&#34;ink coffee&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday morning we had another guest speaker. This time it was Michael Dusing, a local UX Designer. He had a GREAT presentation about work, life and paths to success. I loved hearing from him, his slideshow was FANTASTIC and I can&amp;rsquo;t wait to hear from more design people. He also brought stickers!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/guest.jpg&#34; alt=&#34;Guest Speaker&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After we started another scrimmage day, while one-on-ones were going on. This week we worked on a pixel art creator. I got stuck a few places, and loved working with my table. I&amp;rsquo;m pretty happy with what I accomplished in one day- but have some stretch goals I want to work in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/pixel.png&#34; alt=&#34;Pixel Art&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_24/pixel2.jpg&#34; alt=&#34;Pixel Art&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>A short week! Monday we were off for Presidents day! Tuesday we started off covering test based assessments. Right now, we are using them for some of our assessments- but I look forward to Q2 when we learn how to write them! Now we have an updated flow/map of Q1:
+We also spent some more time on Responsive CSS. I will say that by the end of this week, I feel much better about the topic and like flex box a lot more.</description>
     </item>
     
     <item>
@@ -628,70 +132,10 @@
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_02_17/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;WEEK ONE GALVANIZE!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/firstdayofschoolpic.jpg&#34; alt=&#34;Picture First Day&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On day one, we played the name game &lt;em&gt;Mighty Michelle&lt;/em&gt; and met instructors, administrators, etc! Our first lesson was on &amp;lsquo;How to learn.&amp;rsquo; They served us a great lunch- wraps from protein bar!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/lunch.jpg&#34; alt=&#34;Protein Bar&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My legs were super sore from runday on Sunday, and standing through the name game killed me! So, I sat on the ground. Nothing like a first impression-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/soreleg.jpg&#34; alt=&#34;Ground sitting&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the afternoon, we got another tour, received our key fobs and talked about the Galvanize Culture.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/dayone.jpg&#34; alt=&#34;White board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I got to meet so many dogs! Kiki, as previously mentioned, is our class dog. Well- she is our residents dog so she&amp;rsquo;ll be hanging with us most days. The other two dogs belong to other instructors. Gosh I love being surrounded by them all the time!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/dogs.jpg&#34; alt=&#34;dogs&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After class on Monday, Galvanize organized a happy hour on the fourth floor to welcome us in. Everyone was invited (students, instructors, members).. and it was a pretty busy event! It was nice to meet some other people in the building.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/happyhour.jpg&#34; alt=&#34;Happy Hour&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday our first lesson was on POLYA- or how to solve problems. The day started with a warm up logic puzzle. My group didn&amp;rsquo;t do so great- apparently it relied on a lot of math and that is not my strong suit! Things to work on&amp;hellip;..&lt;/p&gt;
-
-&lt;p&gt;Next we learned some command line and VIM. We had three assessments to work on- and things were officially getting started!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/polya.jpg&#34; alt=&#34;Logic&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday we started with another logic puzzle. This time my group nailed it. I still need to practice though. I think i&amp;rsquo;ll grab a book next time i&amp;rsquo;m out.&lt;/p&gt;
-
-&lt;p&gt;Lessons on Wednesday were Git, Github and HTML. My table and I got into a serious discussion trying to figure out branching- hence our great use of the whiteboard table:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/branching.jpg&#34; alt=&#34;Branch Pictures&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We did the same when trying to conceptualize the process of setting remote vs. upstream with Git&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/upstream.jpg&#34; alt=&#34;Upstream diagram&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday night there was a meetup at Galvanize for CodePen. I headed home to take care of Rex and grab some (PREPPED) dinner before going back. It was a really cool showcase of things people had made- how they made them, and why. At one point, a nine year old girl got up with her dad to show off her html/css project. I just about died- and I&amp;rsquo;m pretty sure I can apply to work for her in 6 months (exaggerating, but, not by much- she might rule the world someday).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/codepengroup.jpg&#34; alt=&#34;Meetup&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we started responsive CSS. I pretty much got into fights with flex box all day. Luckily I wasn&amp;rsquo;t alone- and many of us found great tutorials and tools to help learn.&lt;/p&gt;
-
-&lt;p&gt;Can we admire Kiki in her natural state? She is SO CUTE.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/kiki.jpg&#34; alt=&#34;Sleeping kiki&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We were also introduced to a concept called courage time. Pretty much we dedicate one hour to learning something we don&amp;rsquo;t know. We don&amp;rsquo;t need to have mastery in the topic- or even a fluency, but the point is that in one hour you can learn a lot- and accomplish a lot, in a topic you previously knew nothing about. I look forward to using courage time to delve into topics we might not cover in class (like design!)&lt;/p&gt;
-
-&lt;p&gt;Friday- the final day of module one, week one! In the morning we had a guest speaker. She was a previous student who talked about her time, and what she is doing now! Then it was scrimmage day! Through the day, the instructors met with all the students for one-on-one meetings. While not in a meeting- we were working on our own site (using the skills we covered this week). I worked on a personal site. At 3, as usual, the keg was tapped- but they also had wine on tap! I grabbed a glass- and got my Galvanize swag! It was a great way to end the week.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/wine.jpg&#34; alt=&#34;wine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/swag.jpg&#34; alt=&#34;swag&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All week I packed my bag with Larabars as M4. It was the first time I tried them, and I absolutely LOVE cookie dough. The other flavors are really good too! They&amp;rsquo;ll probably become a regular thing for me..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_17/larabar.jpg&#34; alt=&#34;Larabar&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>WEEK ONE GALVANIZE!
+On day one, we played the name game Mighty Michelle and met instructors, administrators, etc! Our first lesson was on &amp;lsquo;How to learn.&amp;rsquo; They served us a great lunch- wraps from protein bar!
+My legs were super sore from runday on Sunday, and standing through the name game killed me! So, I sat on the ground. Nothing like a first impression-
+In the afternoon, we got another tour, received our key fobs and talked about the Galvanize Culture.</description>
     </item>
     
     <item>
@@ -700,41 +144,8 @@
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_01_26/</guid>
-      <description>&lt;p&gt;Since moving to Denver in July, I have been working hard to learn how to code.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/codewars.jpg&#34; alt=&#34;codewars&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Way back in middle school, I ran a website. It was for quotes- which I am sure were not properly cited, but the site was cool, the cursor had a tail, and it was definitely pink. I was self taught. After school, I would come home and sit at the computer for hours trying to figure out how the code worked. How I could pick it apart and put it together. Slowly figuring out how I could get my site to do something new. I loved it. Then, the quote trend passed, and I moved away from that side of learning.&lt;/p&gt;
-
-&lt;p&gt;In my first paraprofessional role, I found myself leading programs for kids. One of the first was a program using Scratch. I loved it. I had so much fun with those kids, and they were so creative. I realized that I was still really interested in learning how to code.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/scratch1.jpg&#34; alt=&#34;scratch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then I interviewed for a new position. The interviewer asked what I wanted to learn for myself in the next year- what were my personal goals? In response, I said I wanted to learn how to code. That I had wanted to, and that it would be a good thing to work on. OF COURSE, I really had no time. I signed up for a few online classes.. but never practiced enough to retain anything I was learning. I even joined the mailing list for Girls Who Code in Syracuse, but never made it to a class.&lt;/p&gt;
-
-&lt;p&gt;Back in June, when we decided to make the move to Denver, I was taking Rex for a walk. I found myself once again thinking,&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I would really love to learn web development. Maybe, in like 10 years, I&amp;rsquo;ll have the time to learn it and it can be a second career&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Then, I realized, why wait? Why wait to learn, what I have already been waiting to learn? So, I got home, and brought it up with Zac. Now, I have an amazingly supportive husband. He was all for it, and he&amp;rsquo;s supported me every step.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/deskweek.JPG&#34; alt=&#34;weekday&#34; /&gt;
-&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/deskwknd.JPG&#34; alt=&#34;weekend&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, we moved, and almost every day since August, I have been coding. Learning through Codeacademy, Udacity and Codewars. On the weekends, Zac and I will pair up and work on projects together. All along, I have been working to be good enough to apply for a bootcamp. This month, I applied. I interviewed. I was accepted. AND in just over two weeks I will be starting the immersive web development program at Galvanize Platte! I&amp;rsquo;M SO EXCITED.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/rexsnout.jpg&#34; alt=&#34;scratch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I do want to mention right now that I still LOVE library science. It is my goal to combine all of the skills I have with the skills I&amp;rsquo;ll learn.  I have zero regrets when it comes to the decisions I&amp;rsquo;ve made this far.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/macbookpro.png&#34; alt=&#34;new computer&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, I&amp;rsquo;m prepping for the course. It&amp;rsquo;s intensive, so I&amp;rsquo;m trying to prepare myself ahead of time. Adjusting my sleep schedule, hitting the gym early, spending time with meal plans! I&amp;rsquo;m also still learning- and getting use to my new Macbook Pro.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_01/2017_01_26/rollingmacs.jpg&#34; alt=&#34;pair&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m sure it&amp;rsquo;s going to be challenging, but let&amp;rsquo;s be honest, I love a good challenge. I love learning. I love being busy. And, I&amp;rsquo;m hecka excited. I can hardly wait&amp;hellip;&lt;/p&gt;
-</description>
+      <description>Since moving to Denver in July, I have been working hard to learn how to code.
+Way back in middle school, I ran a website. It was for quotes- which I am sure were not properly cited, but the site was cool, the cursor had a tail, and it was definitely pink. I was self taught. After school, I would come home and sit at the computer for hours trying to figure out how the code worked.</description>
     </item>
     
   </channel>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hackathon on Shelter&#39;s House</title>
-    <link>https://mihshhehl.github.io/categories/hackathon/index.xml</link>
+    <link>https://mihshhehl.github.io/categories/hackathon/</link>
     <description>Recent content in Hackathon on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mihshhehl.github.io/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mihshhehl.github.io/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Name.com HACKATHON!</title>
@@ -14,26 +17,8 @@
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_19/</guid>
-      <description>&lt;p&gt;Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.&lt;/p&gt;
-
-&lt;p&gt;Our team name was DARE (given to us by the host). We got started by brainstorming ideas- and narrowing it down to our favorite: Platform as an Unreliable Service (going for humor here).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/DARE.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/LOGO.png&#34; alt=&#34;Doobernetes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From there, things got pretty crazy, pretty quick. We had too many bodies- with not enough to do, AND we went with a technology that only two team members were familiar with (angular). SO. It was an experience. I learned A LOT and will definitely take that into the next hackathon that I particpate in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/beerpizza.png&#34; alt=&#34;Nurishment&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/group.jpg&#34; alt=&#34;Group working&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the end, it was fun. Our project was- ahhem- not the best. But we worked as a team and got something presentable. Watching the presentations was a blast- and we had a HUGE 46 turn out. In the end, I&amp;rsquo;m excited for the next hackathon challenge!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/selfie.jpg&#34; alt=&#34;ME&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/cover.jpg&#34; alt=&#34;EVERYONE&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.
+Our team name was DARE (given to us by the host).</description>
     </item>
     
   </channel>

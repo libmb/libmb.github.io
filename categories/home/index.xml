@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Shelter&#39;s House</title>
-    <link>https://mihshhehl.github.io/categories/home/index.xml</link>
+    <link>https://mihshhehl.github.io/categories/home/</link>
     <description>Recent content in Home on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mihshhehl.github.io/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mihshhehl.github.io/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Life Balance</title>
@@ -14,52 +17,9 @@
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_02_18/</guid>
-      <description>&lt;p&gt;So this past week was my first at Galvanize, but there was time outside of class! I&amp;rsquo;m going to try to break up my posts between school work, and life outside of class..&lt;/p&gt;
-
-&lt;p&gt;This past week Zac was in Portland, so every night we caught up on my day! I think he was as excited as me that I started school.&lt;/p&gt;
-
-&lt;p&gt;Monday I came home and just relaxed. All week it was really great that I had easy meals ready to go.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/mondinner.jpg&#34; alt=&#34;Dinner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday was Valentines day! Rex got a treat of course.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/rexvday.jpg&#34; alt=&#34;Valentines&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After Galvanize, I headed to the gym. A very nice lady decided to talk to me while I was on the elliptical. She was concerned that I was at the gym alone (also the only person in the gym) on Valentines. I explained that Zac was in Portland- but come on- who does that?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/vdaygym.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After going to the gym and talking to Zac, Rex and I watched some Twilight while working on some CLI Murder Mystery! It was a really fun way to practice command line.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/vdayfun.jpg&#34; alt=&#34;CLI&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday my new bag came! I ordered an everyday tote- it is awesome! It has all of these collapsable dividers and is the perfect size. I love it!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/bag.jpg&#34; alt=&#34;Peak Design Everyday Tote&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After the CodePen Meetup, I headed to the gym at Galvanize. It was totally empty, and it was nice to change up the scenery.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/ggym.jpg&#34; alt=&#34;Gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday night Zac got home from Portland (and will be home for three weeks at least!!). I immediately had him run through a Git/Github exercise to explain some concepts for me. He&amp;rsquo;s a sweet guy..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/zacgit.jpg&#34; alt=&#34;git hub&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All week I stopped home for Rex at lunch. All week he would watch me eat before heading to the dog park. He pretty much moped- I think he misses all our fun weekday adventures- but we&amp;rsquo;ll make it up on the weekends.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/lunchrex.jpg&#34; alt=&#34;Rexy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The meal planning/prepping was lifesaving. It was the only reason I had time this week! AND, this week I had grapefruit as M2. I realized it has been 10 years since I had a grapefruit, and I LOVE THEM. So, I need to eat those more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/lunch.jpg&#34; alt=&#34;prepped lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/grapefruit.jpg&#34; alt=&#34;Grapefruit&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was a really great week. The weather was nice, and it felt good to be busy!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_18/weather.jpg&#34; alt=&#34;weather&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>So this past week was my first at Galvanize, but there was time outside of class! I&amp;rsquo;m going to try to break up my posts between school work, and life outside of class..
+This past week Zac was in Portland, so every night we caught up on my day! I think he was as excited as me that I started school.
+Monday I came home and just relaxed. All week it was really great that I had easy meals ready to go.</description>
     </item>
     
     <item>
@@ -68,70 +28,8 @@
       <pubDate>Wed, 08 Feb 2017 17:00:00 +0900</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_02_08/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been so gorgeous here lately, that it&amp;rsquo;s hard to believe that a week ago everything was covered in ice! We had a nice day, and right as the sun was setting, starting getting some drizzle. Well, it all turned to ice and our walk that night and the next morning was treacherous.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/cold.jpg&#34; alt=&#34;ice outside&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I am officially in the last week of the January 2017 Tone It Up Challenge! I&amp;rsquo;m loving it, and I plan to keep it up afterwards. I&amp;rsquo;ve been really sore this past week, but a good sore!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/tiu.jpg&#34; alt=&#34;fitness challenge&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I jumped on the bike this week, to change up my cardio routine. I need to get some practice in before summer! I want to be in shape so I can keep up with my new biking friends (and, as always, I&amp;rsquo;ll try to keep up with my husband). Personally, I still think assisted downhill is the. way. to. go.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/bike.jpg&#34; alt=&#34;indoor bike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday we headed to Eldora! It was a gorgeous day- the snow was amazing. I just love it! We took ZERO indoor breaks on Saturday. The best part was eating lunch on my favorite run. We&amp;rsquo;re still working our way through my last batch of chili. I&amp;rsquo;ll need to make more before Steph and Geoff come it visit!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/eldoracol.jpg&#34; alt=&#34;eldora lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/eldoraz.jpg&#34; alt=&#34;zac at Eldora&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When we got home in the afternoon, the sun was still up and it was 60 degrees! We took the pup downtown, and stopped at Panera to grab some bread for the week. They were out of our favorite loaf, so we decided to try some Asiago. It was good, but, the other is better.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/panera.jpg&#34; alt=&#34;panera&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday night we watched Man in the High Castle, and enjoyed some wine and cheese. On that note, we actually caught up this week. We have so many questions! It&amp;rsquo;s such a good show, and the characters are great, but some things just don&amp;rsquo;t make sense! I guess that&amp;rsquo;s how they get you to keep watching&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/cheese.jpg&#34; alt=&#34;Rex begging&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday we decided to take Rex on an adventure. We had been gone most of Saturday, and we wanted to give him a chance to get out some energy! I looked at some of the hikes I had highlighted last year, and decided to head to Mt. Falcon. It&amp;rsquo;s only 30 minutes away, and it claimed to have awesome views of red rocks and Denver.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/mtfalconz2.jpg&#34; alt=&#34;Take a Hike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was a gorgeous day, and for the first half of our hike, we were actually pretty warm. Then, on the way back, we hit the dark side of the trails, and found ourselves trudging through snow!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/sunsnow.jpg&#34; alt=&#34;Mt Falcon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The hike was as described, and had awesome views to take in. There was a lookout tower you could climb up, and this awesome little pavilion that is set right on the edge. I told Zac, it gave me serious window view goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/falconviews.jpg&#34; alt=&#34;Views from Mt Falcon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was our first hike of 2017. Rex had the BEST. DAY. EVER. And we had a great time too. I can&amp;rsquo;t wait to get back out more often. It&amp;rsquo;s really rejuvenating.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/mtfalconm.jpg&#34; alt=&#34;Me at Mt Falcon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/mtfalconz.jpg&#34; alt=&#34;Sign&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday I had to run some errands, and got caught in a massive slow down on the 25. It was like a parking lot. I have no patience for slow traffic, and driving standard makes it worse. I was pretty much done when I got home, so I went straight to the gym to take out my frustrations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/parkinglot.jpg&#34; alt=&#34;Slow down on 25&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday night we went out for groceries, but I forgot my reusable shopping bags. If you&amp;rsquo;re curious, Ikea bags will do in a pinch- haha.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/ikea.jpg&#34; alt=&#34;Groceries&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week has been filled in with working on precourse work for Galvanize. I CANT wait to start on Monday. I&amp;rsquo;m probably going to go in later this week to meet instructors and jazz. I finished most of the assignments, and set up all my accounts, so it feels real!  AND late last week I got awesome news, that I received a scholarship! It pretty much made my day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/gschool.jpg&#34; alt=&#34;gSchool&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yesterday, I got the itch to re-arrange our furniture. I knew that if I didn&amp;rsquo;t do it now, I wouldn&amp;rsquo;t have time! SO- while Zac was busy working, I set to moving all our belongings around him. He usually hates it when I move things- it gives him anxiety until it&amp;rsquo;s finished. However, he was a total champ. I&amp;rsquo;ll post a picture of the new layout next time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/move.jpg&#34; alt=&#34;Furniture moving&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As it is, I have a few more goals before Monday. 1. Make chili 2. Meal plan like CRAZY (5 weeks worth?) 3. Keep up with my daily reading goals- because I so want to finish this Epic Fantasy within my month goal and 4. SIT IN THE SUN AS MUCH AS POSSIBLE.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_08/sunshine.jpg&#34; alt=&#34;Sun&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>It&amp;rsquo;s been so gorgeous here lately, that it&amp;rsquo;s hard to believe that a week ago everything was covered in ice! We had a nice day, and right as the sun was setting, starting getting some drizzle. Well, it all turned to ice and our walk that night and the next morning was treacherous.
+I am officially in the last week of the January 2017 Tone It Up Challenge! I&amp;rsquo;m loving it, and I plan to keep it up afterwards.</description>
     </item>
     
     <item>
@@ -140,93 +38,8 @@
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_02_05/</guid>
-      <description>&lt;p&gt;Back in July we moved out of our house in NY. It was a 1,452 sqft house (not including the full finished basement, or the bonus room above the garage). We moved from a house with four bedrooms, and two bathrooms to a one bed, one bath apartment. A mere 659 sqft. Here, my friends, is how we make it work..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/title.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;FULL DISCLOSURE: We also have a storage unit. It&amp;rsquo;s small, and contains our spare tires, tool box and bikes.&lt;/p&gt;
-
-&lt;p&gt;The VERY first thing we did was DOWNSIZE. That deserves a post all of its own.. so I won&amp;rsquo;t go too much into that. Suffice to say that we got rid of SO MUCH STUFF. Things we didn&amp;rsquo;t use nor need&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;When setting up our apartment, the first thing I focused on was creating areas. Identifying what we needed from the space, and setting it up accordingly. We would need a living area, a place for Zac to work from home, an area to eat, and of course areas to cook and sleep.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/Zones-01.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Some of our furniture came with us. This table by the door was a wedding gift. It&amp;rsquo;s not a zone of its own, but it serves a definite purpose near the door. The drawer currently has gloves and hats in it. The metal container holds all of our dog food, and there is a bin for shoes!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/foyer.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We would need a living area- a place to sit and relax! Watch TV.. cuddle the dog. You know. Living room.
-(Oh and our couch doubles as a pull out bed!- Necessary for guests)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/living space.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A really important aspect of our living space is a  work area. Zac works from home on occasion- and I have been using the office zone when Zac is on travel to 1. blog and 2. learn to code! Now that I&amp;rsquo;ll be getting back to school, I&amp;rsquo;ll need it even more. The only downside to the current layout is that sometimes Zac has video calls. However, we solved the issue of seeing into the kitchen- he just puts the desk in &amp;lsquo;stand&amp;rsquo; mode, and you can&amp;rsquo;t see anything but the Besta unit behind him.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/office.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For our &amp;lsquo;dining&amp;rsquo; area, we have two stools at the counter! There is just enough of  a ledge to make it work. Since it&amp;rsquo;s just the two of us, this is totally fine.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/dining.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/dining2.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The kitchen, bathroom and bedroom zones are pre-made by the apartment layout.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/kitchen.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, we needed to FIND AND MAKE STORAGE. Even after getting rid of the majority of our items, I knew the key to success in a small space would be storage. When we moved, we took a trip to Ikea and we targeted items that would give us extra space!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/storage-01.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We bought a TV stand that has two compartments. We store our blankets, movies, XBox controllers, and the surge protector in the closed areas. In addition, the box on the shelf holds all my greeting card materials! (Because, STORAGE EVERYWHERE).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/tvstand-01.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the BEST purchases was our BESTA unit. It&amp;rsquo;s so slick, minimal and modern looking when it&amp;rsquo;s closed up. Inside, ALL THE THINGS BELONG. It is still a work in progress..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/Storage.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We use bins and boxes to store items too. Our bookshelf is full of storage opportunities. In addition to what you can see here, some shelves have double book rows or hidden boxes behind the books.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/bookshelf-01.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The bedframe has two huge drawers underneath- these are full of blankets and sheets (the other side has no drawers, but my wedding dress). We brought our file cabinet from NY, and now it&amp;rsquo;s my end table. Does the job, saves some space! After we had everything set up, we realized that Rex&amp;rsquo;s bed was way too big. I measured the space by the bed, behind the closet door and was able to find a bed that would fit perfect. Trust me, he has enough room.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/bedstore.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Out unit has a wonderful little closet with stacked washer/dryer combo! I am able to store our broom, mop and ironing board on the wall with a hanging system. You can&amp;rsquo;t see them in the picture below, but they are on the right-side wall. The vacuum fits right in front (perfectly placed since we use it so much! Rexy&amp;rsquo;s light hair + dark wood floors-)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/washer.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After a little searching, I was able to find a great rolling cart that fit right into the space between washer and wall. It holds all our cleaning supplies.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/cleaning.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Organizing all these spaces is incredibly important- and that is still a big work in progress! Every month I select a small area to completely organize. I take the measurements, and head to my FAVORITE PLACE&amp;hellip; The Container Store. I come home and organize away. It makes my heart happy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/organize-01.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are two main ways I think about organization. 1. How often is the item used and 2. Where is the item used. If something is used everyday, it&amp;rsquo;s readily available (like my Ninja blender that I use at least once a day. It&amp;rsquo;s on the kitchen counter). If it&amp;rsquo;s something that&amp;rsquo;s used once a week to once a month it&amp;rsquo;s stored but accessible (like my toaster. It&amp;rsquo;s in a cabinet). I try to store these things relative to where they are needed. The shelf of the Besta unit that contains office supplies is the one right next to the desk. Our hats and gloves are in a drawer by the door. If you have to travel out of your way to put something away, it might not make it there.&lt;/p&gt;
-
-&lt;p&gt;I also purchased two gift boxes to organize cords. One near our computer area, and one under the router on the foyer table. These are fantastic. They were cheap, but are really sturdy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/cords.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/router.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, that is how we make it work. It would be nice to have an extra room as an office- and as a place for guests to sleep. We&amp;rsquo;ll be hosting our firsts guests this month! Time will tell us how the pull out couch, and lack of dining table affects the visit. We have two good things going for us: 1. the complex we live in is really nice, and there are other places we can go to sit/eat/whatever 2. we live in Denver, so there&amp;rsquo;s really no reason to ever be cooped up!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/smell.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lastly, I leave you with two tips for first floor living: 1. white noise maker 2. window film. The noise maker is wonderful because we have a very protective dog. He likes to freak out if he hears anyone walking by, so we have it on near the window while we sleep. The window film is awesome for privacy. We bought it really cheap on Amazon, cut it to fit the bottom of our window. Now we can slide the blinds up and get lots of natural light without being seen by anyone walking by.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_02/2017_02_05/livelong.JPG&#34; alt=&#34;--&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I particularly love our apartment&amp;hellip; It&amp;rsquo;s just big enough to stretch out. I like our layout- I can see the TV while in the kitchen, or at the computer. Overall, it&amp;rsquo;s been an adjustment, but a welcome one!&lt;/p&gt;
-
-&lt;p&gt;ALSO, HEY, I CAN VACUUM THE ENTIRE PLACE WITHOUT UNPLUGGING THE VACUUM! WHAT!&lt;/p&gt;
-</description>
+      <description>Back in July we moved out of our house in NY. It was a 1,452 sqft house (not including the full finished basement, or the bonus room above the garage). We moved from a house with four bedrooms, and two bathrooms to a one bed, one bath apartment. A mere 659 sqft. Here, my friends, is how we make it work..
+FULL DISCLOSURE: We also have a storage unit. It&amp;rsquo;s small, and contains our spare tires, tool box and bikes.</description>
     </item>
     
   </channel>

@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shelter&#39;s House</title>
-    <link>https://mihshhehl.github.io/index.xml</link>
+    <link>https://mihshhehl.github.io/</link>
     <description>Recent content on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mihshhehl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mihshhehl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>It was snowy, it was sunny.</title>
@@ -15,40 +17,8 @@
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_30/</guid>
-      <description>&lt;p&gt;There are week where you do a lot. And then there are weeks where you don&amp;rsquo;t. Then, there are weeks that are both.  Ha- this was that! School was so busy with projects- that outside of school- it was necessary to take it easy!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/lunchpark.jpg&#34; alt=&#34;dog park&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac was gone again- so Rex and I went on lots of walks. Other than foundations- the only remarkable thing to happen during the week was that it was &lt;a href=&#34;https://www.toneitup.com/&#34;&gt;WEEK ONE OF THE BIKINI SERIES!&lt;/a&gt; The food was great- and the workouts even better. I&amp;rsquo;ll be buying the videos soon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/bikiniseries.jpg&#34; alt=&#34;food&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/waffles.jpg&#34; alt=&#34;waffles&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I haven&amp;rsquo;t taken many photos, or posted much about it lately- but I&amp;rsquo;m still hitting the gym ERRRRY&amp;rsquo;DAY. Love tone it up!&lt;/p&gt;
-
-&lt;p&gt;It was a chilly week, but still really nice. But, we could all feel the snow coming&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/commute.jpg&#34; alt=&#34;Walk to school&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac was home this weekend, and on Saturday he helped me tackle some problems we hit with our project. He explained auth/auth in a way I hadn&amp;rsquo;t considered, and with his help I was able to cover a lot of ground.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/hp.jpg&#34; alt=&#34;code and tv&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday evening I helped out at the Learn To Code Colorado event. It was a lot of fun, and I saw a lot of familiar faces from the Foundations class.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/code.jpg&#34; alt=&#34;gSchool&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday night, we went out to find something to eat. DOWNTOWN WAS CLOSED. AT 9, IT WAS WEIRD. But, Thirsty Lion was open- so we grabbed drinks and I had a side salad.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_30/thirsty.jpg&#34; alt=&#34;drinks&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday Zac had a tennis match in Cherry Creek- so I dropped him off and went to find shoes for Stephs wedding. SUCCESSS! Sunday night we watched Why Him! And got ready for the next week..&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;which is &lt;strong&gt;BREAK WEEK!&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>There are week where you do a lot. And then there are weeks where you don&amp;rsquo;t. Then, there are weeks that are both. Ha- this was that! School was so busy with projects- that outside of school- it was necessary to take it easy!
+Zac was gone again- so Rex and I went on lots of walks. Other than foundations- the only remarkable thing to happen during the week was that it was WEEK ONE OF THE BIKINI SERIES!</description>
     </item>
     
     <item>
@@ -57,63 +27,9 @@
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_29/</guid>
-      <description>
-
-&lt;p&gt;WOW. Let&amp;rsquo;s talk about a fast week. A hectic, crazy, week! Group projects are great, and in some ways hard! That being said, WE MADE IT.&lt;/p&gt;
-
-&lt;p&gt;We started off our week by reviewing our pencil work. We established our project, our ERD, the wireframes and user stories. We combined all our ideas- and made sure that each of us had the same understanding of MVP and stretch goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/tracker.png&#34; alt=&#34;user stories&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/ERD.jpg&#34; alt=&#34;ERD&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From there- this whole week was this:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Group Stand up (review yesterdays work, establish daily MVP, make a plan)&lt;/li&gt;
-&lt;li&gt;Pair program until Lunch&lt;/li&gt;
-&lt;li&gt;git push, merge, and deploy&lt;/li&gt;
-&lt;li&gt;Regroup after Lunch&lt;/li&gt;
-&lt;li&gt;Pair program until 4&lt;/li&gt;
-&lt;li&gt;git push, merge and deploy&lt;/li&gt;
-&lt;li&gt;Acceptance with our product owner&lt;/li&gt;
-&lt;li&gt;Group stand down&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We were really ambitious in our project- and didn&amp;rsquo;t get exactly where we wanted. That being said- we hit some really tough pain points- and worked through them as a team.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/wb.jpg&#34; alt=&#34;whiteboard&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I didn&amp;rsquo;t really see many other people this week! I still came in on Tuesday, and Lena and I caught up. It&amp;rsquo;s becoming a therapeutic routine.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/t-early.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rex joined us one afternoon- He got a bone from the pet store across the street- and just relaxed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/rex.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/rex2.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday was the last day of coding for the project. I grabbed a latte at lunch, and took the best group picture ever:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/habit.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/peach-thur.jpg&#34; alt=&#34;group&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday we PRESENTED FIRST!, enjoyed the other presentations, did a group retro and stand down and THAT IS IT. PROJECT WEEK WAS OVER. At lunch, practically all of us headed over to DBC for burger food truck- and beers for everyone else.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/dbc.jpg&#34; alt=&#34;DBC&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lena suggested we grab a glass of wine after class- to save money we just grabbed wine at the liquor store and had a drink on the balcony! She really is a dose of sanity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_29/wine.jpg&#34; alt=&#34;wine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And guys, that is it. WE&amp;rsquo;RE HALFWAY DONE. It&amp;rsquo;s crazy.&lt;/p&gt;
-
-&lt;p&gt;Oh, and check out:&lt;/p&gt;
-
-&lt;h2 id=&#34;the-46-open-https-infinite-shelf-75058-herokuapp-com&#34;&gt;&lt;a href=&#34;https://infinite-shelf-75058.herokuapp.com/&#34;&gt;The 46 Open!&lt;/a&gt;&lt;/h2&gt;
-</description>
+      <description>WOW. Let&amp;rsquo;s talk about a fast week. A hectic, crazy, week! Group projects are great, and in some ways hard! That being said, WE MADE IT.
+We started off our week by reviewing our pencil work. We established our project, our ERD, the wireframes and user stories. We combined all our ideas- and made sure that each of us had the same understanding of MVP and stretch goals.
+From there- this whole week was this:</description>
     </item>
     
     <item>
@@ -122,46 +38,9 @@
       <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_23/</guid>
-      <description>&lt;p&gt;This week Zac was in St. Louis again. Rex and I got in lots of exercise and a little relaxation. We got up a couple mornings and went for a run before the day. This keeps him tired when I&amp;rsquo;m away, or when I bring him in with me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/w-amrun.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday night I rented Moana! It was adorable. I love Disney.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/moana.jpg&#34; alt=&#34;movie&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday night Rex came to Foundations with me. He was pretty good- and we had a really nice walk home afterwards. It&amp;rsquo;s so pretty here, all the time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/t-walkhome.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s getting light out earlier, and the sunrise commutes have been gorgeous.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/sunrise.jpg&#34; alt=&#34;sunrise&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/sunrise2.jpg&#34; alt=&#34;sunrise&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday, Zac and I took the car in to switch out the tires! No more winter tires needed. It took about an hour, so we walked to a Brewery, &lt;a href=&#34;http://www.briarcommon.com/&#34;&gt;Briar Common,&lt;/a&gt; and chatted. We ended up talking about assembly language. HE IS SO SMART. I understand that he has far more education in the field, and more experience, but I hope to just soak it up and get there someday!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/s-car.jpg&#34; alt=&#34;Briar&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/s-car2.jpg&#34; alt=&#34;Briar&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday morning I had a haircut at Stanley Marketplace. Next cut, I&amp;rsquo;m getting a color too. I&amp;rsquo;m pretty excited to have hair again. ITS SO LONG. &lt;a href=&#34;https://www.stbaldricks.org&#34;&gt;(#bravetheshave)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/u-clem.jpg&#34; alt=&#34;Stanley Marketplace&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/u-zac.jpg&#34; alt=&#34;Stanley Marketplace&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we went out for a quick hike. I really wanted Rex to get some energy out before Zac left for work again. I knew the next week would be crazy with projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/hike.jpg&#34; alt=&#34;Hiking&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_23/hike2.jpg&#34; alt=&#34;Hiking&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We went to &lt;a href=&#34;http://dayhikesneardenver.com/south-valley-park-ken-caryl/&#34;&gt;South Valley Park Trails&lt;/a&gt; and did about 2 miles. It was a really nice day.&lt;/p&gt;
-
-&lt;p&gt;One more week until BREAK WEEK!&lt;/p&gt;
-</description>
+      <description>This week Zac was in St. Louis again. Rex and I got in lots of exercise and a little relaxation. We got up a couple mornings and went for a run before the day. This keeps him tired when I&amp;rsquo;m away, or when I bring him in with me.
+Monday night I rented Moana! It was adorable. I love Disney.
+Tuesday night Rex came to Foundations with me. He was pretty good- and we had a really nice walk home afterwards.</description>
     </item>
     
     <item>
@@ -170,46 +49,8 @@
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_22/</guid>
-      <description>&lt;p&gt;This week we rolled through information! We had a lot to learn before projects next week- and we all had some sort of anxiety about either getting groups, or starting the project. This week we dived deeper into SQL joins, auth &amp;amp; auth, REST/CRUD, server side validation and FINALLY got our teams.&lt;/p&gt;
-
-&lt;p&gt;When we came in on Tuesday, we some new writing on our wall. A new goal is for all of us to add to the wall before graduation. Because, we&amp;rsquo;re the best cohort ever. SCWAAAAA.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/awesome46.jpg&#34; alt=&#34;wall&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday WE WON FEBRUARY. This game is epic, and I LOVE IT SO MUCH.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/m-pan.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday after class there was a happy hour to welcome the NEW COHORT! &lt;strong&gt;G51&lt;/strong&gt; I met a few new students, and hung around for the start of a meetup.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/m-hh.jpg&#34; alt=&#34;Happy Hour&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The rest of the week was a blur of blessons (breakout lessons) and diplomacy. We started a 15 person game, and it&amp;rsquo;s pretty intense.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/dipsomacy.jpg&#34; alt=&#34;Diplomacy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zac was on business this week, so Rex came in one day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/grex.jpg&#34; alt=&#34;Rex at Galvanize&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was the day we had WAITED ALL QUARTER FOR. But, we had to wait a little longer. In the morning, I headed up to the fourth floor for a latte. We have baristas who charge tips for coffee drinks m/f. This was the first time I went, and I&amp;rsquo;ll be there again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/flatte.jpg&#34; alt=&#34;Latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We started the day with a group standup! Kyle is so good at leading these. Then we settled into classroom &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; for a three cohort alumni panel! It was long, but there was a lot of good information in there- from people who just graduated, to those that have been in the field for a couple years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/fSU.jpg&#34; alt=&#34;Group Standup&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/fAP.jpg&#34; alt=&#34;Alumni Panel&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;THEN we got our groups! Our groups are for the Q2 project- which is a group project, and we&amp;rsquo;ll be working together all day, every day, next week! I got teamed with James, Jules &amp;amp; Jackson. I&amp;rsquo;m pretty psyched to be working with them. James and I TA JS Foundations, but I haven&amp;rsquo;t worked with the other two yet. It should be a fun week.&lt;/p&gt;
-
-&lt;p&gt;After groups were assigned, we spent the day brainstorming project ideas and submitting our proposal. Then we set some group guidelines. For instance- this weekend we&amp;rsquo;ll be penciling-before-pixeling (Wireframes, ERD, feature lists, user stories), but after that- we&amp;rsquo;ll be working in class only and trying not to take work home. We&amp;rsquo;re also going to rotate scrum master everyday.&lt;/p&gt;
-
-&lt;p&gt;So, here goes the LAST WEEK OF Q2!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_22/prop.png&#34; alt=&#34;Proposal&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>This week we rolled through information! We had a lot to learn before projects next week- and we all had some sort of anxiety about either getting groups, or starting the project. This week we dived deeper into SQL joins, auth &amp;amp; auth, REST/CRUD, server side validation and FINALLY got our teams.
+When we came in on Tuesday, we some new writing on our wall. A new goal is for all of us to add to the wall before graduation.</description>
     </item>
     
     <item>
@@ -218,26 +59,8 @@
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_19/</guid>
-      <description>&lt;p&gt;Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.&lt;/p&gt;
-
-&lt;p&gt;Our team name was DARE (given to us by the host). We got started by brainstorming ideas- and narrowing it down to our favorite: Platform as an Unreliable Service (going for humor here).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/DARE.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/LOGO.png&#34; alt=&#34;Doobernetes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From there, things got pretty crazy, pretty quick. We had too many bodies- with not enough to do, AND we went with a technology that only two team members were familiar with (angular). SO. It was an experience. I learned A LOT and will definitely take that into the next hackathon that I particpate in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/beerpizza.png&#34; alt=&#34;Nurishment&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/group.jpg&#34; alt=&#34;Group working&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the end, it was fun. Our project was- ahhem- not the best. But we worked as a team and got something presentable. Watching the presentations was a blast- and we had a HUGE 46 turn out. In the end, I&amp;rsquo;m excited for the next hackathon challenge!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/selfie.jpg&#34; alt=&#34;ME&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_19/cover.jpg&#34; alt=&#34;EVERYONE&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Wednesday night I went to my second hackathon! This one was hosted by name.com. The premise was we were given a domain name (cloud.denver) and two hours to make the best website for that domain. A lot of people showed up- and the place was packed! We ended up with a team that was wayy too big for a two hour hackathon- 10 people.
+Our team name was DARE (given to us by the host).</description>
     </item>
     
     <item>
@@ -246,60 +69,9 @@
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_16/</guid>
-      <description>&lt;p&gt;As far as weeks go, this one was BUSY! Packed full of fun stuff.&lt;/p&gt;
-
-&lt;p&gt;Tuesday we signed up for a free bike class at REI. As for a free class, it was a good reminder. It&amp;rsquo;s been a while since we&amp;rsquo;ve fixed a flat- and I think it as just what we needed there.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/rei.jpg&#34; alt=&#34;rei bike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We also brought our dividend and grabbed a few things for hiking this year. We&amp;rsquo;re going to try and be responsible by stocking up on those &amp;lsquo;10 things every hiker should have&amp;rsquo;. You know, just in case.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/hikestuff.jpg&#34; alt=&#34;rei bike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;TUESDAY WAS ALSO REXYS BIRTHDAY! HE IS NOW A SENIOR DOG. Haha, he&amp;rsquo;s seven. I made him a dog cupcake, and he devoured it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/rexbday.jpg&#34; alt=&#34;rex turns 7&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday we had the GRILLED CHEESE FESTIVAL. I was so looking forward to this. It was in support of Imagination Library- which I was involved in back in NY. It was a night of unlimited drinks, grilled cheese and misc vendors. It was a great cause, but they lacked the planning required for such a large scale event. That being said- we enjoyed some great grilled cheese, supported a good cause, and then stopped at a bar on the way home for some food.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/GCF.jpg&#34; alt=&#34;Grilled Cheese Fest&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/gcf2.jpg&#34; alt=&#34;GRilled Cheese Fest&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/gcf3.jpg&#34; alt=&#34;GRilled Cheese Fest&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/kitchennd.jpg&#34; alt=&#34;Kitchen Next Door&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday I missed JavaScript Foundations to attend Capstones. G38 was graduating, and I wanted to go see the presentations. We&amp;rsquo;ll be the next class to graduate form Platte! Thats crazy. -Anyway, the presentations were really good.&lt;/p&gt;
-
-&lt;p&gt;Friday after work Zac and I met at DBC. I tried Princess Yum Yum, and it was ok. (beer hater)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/fridbc.jpg&#34; alt=&#34;dbc&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday we headed to the Fitzgeralds to celebrate Joe&amp;rsquo;s citizenship! It was an adorable party- themed to the nines with all things American. I love that family- they&amp;rsquo;re so great, and I loved meeting their friends. It was a great night. The next day, I realized I cannot drink that much anymore, but, it was fun.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/a1.jpg&#34; alt=&#34;Party Citizenship&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/a2.jpg&#34; alt=&#34;Party Citizenship&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/a3.jpg&#34; alt=&#34;Party Citizenship&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As we were walking around their house, we spotted a cute picture of Amy&amp;rsquo;s Place in Buffalo, NY. They actually had no clue what it was. Now, they know that it serves up some awesome breakfast.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/amysplace.jpg&#34; alt=&#34;Amys Place&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday we went for a nice walk- and grabbed coffee in the highlands.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/metcoffee.jpg&#34; alt=&#34;Metropolis Coffee&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/rexwalk.jpg&#34; alt=&#34;walk&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I got some reading done outside, but Rex was too warm to hang.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/outside.jpg&#34; alt=&#34;Outside&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_16/rexhot.jpg&#34; alt=&#34;Outside&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>As far as weeks go, this one was BUSY! Packed full of fun stuff.
+Tuesday we signed up for a free bike class at REI. As for a free class, it was a good reminder. It&amp;rsquo;s been a while since we&amp;rsquo;ve fixed a flat- and I think it as just what we needed there.
+We also brought our dividend and grabbed a few things for hiking this year. We&amp;rsquo;re going to try and be responsible by stocking up on those &amp;lsquo;10 things every hiker should have&amp;rsquo;.</description>
     </item>
     
     <item>
@@ -308,42 +80,10 @@
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_15/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t take my pictures this week at Galvanize. Must have been too busy learning or something&amp;mdash;-&lt;/p&gt;
-
-&lt;p&gt;We dived into even more topics this week! Including DATABASES, psql, ddl/ddm, and server side applications.&lt;/p&gt;
-
-&lt;p&gt;This week was all about the breakouts. Attending smaller size classes, for shorter periods, on concentrated topics. It had a few hitches, but wasn&amp;rsquo;t the worst.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/breakout.jpg&#34; alt=&#34;white board&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday morning we had a guest speaker- Teagan. A BA developer at massroots- who has automated her entire home. I looked forward to meeting her, and wasn&amp;rsquo;t let down. She&amp;rsquo;s really authentic and in that, inspiring.&lt;/p&gt;
-
-&lt;p&gt;At lunch we started something REALLY exciting. A group of us pitched in to buy Pandemic Legacy. Mondays at lunch we&amp;rsquo;ll be playing. This week, WE WON JANUARY.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/pan1.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/pan2.jpg&#34; alt=&#34;Pandemic Legacy Boardgame&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday morning I, once again, grabbed a photo from the fourth floor balcony.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/tues.jpg&#34; alt=&#34;sunrise&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It was a pretty nice week. Zac and Rex walked me to school in the mornings.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/commutebuds.jpg&#34; alt=&#34;park&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And we got a bunch of work done outside.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/fourth.jpg&#34; alt=&#34;fourth&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Rex had a half day stretch at Galvanize, but didn&amp;rsquo;t get enough morning exercise to last a whole day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_15/rex.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of the week, our scrimmage was a &lt;a href=&#34;https://intense-inlet-58162.herokuapp.com/&#34;&gt;reddit clone.&lt;/a&gt; I decided to go with a hike theme. It was a lot of fun to put together.&lt;/p&gt;
-
-&lt;p&gt;Only one more week until projects? REALLY?&lt;/p&gt;
-</description>
+      <description>I didn&amp;rsquo;t take my pictures this week at Galvanize. Must have been too busy learning or something&amp;mdash;-
+We dived into even more topics this week! Including DATABASES, psql, ddl/ddm, and server side applications.
+This week was all about the breakouts. Attending smaller size classes, for shorter periods, on concentrated topics. It had a few hitches, but wasn&amp;rsquo;t the worst.
+Monday morning we had a guest speaker- Teagan. A BA developer at massroots- who has automated her entire home.</description>
     </item>
     
     <item>
@@ -352,52 +92,9 @@
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_09/</guid>
-      <description>&lt;p&gt;I think that with school, and TAing JavaScript foundations every Tuesday and Thursday- the weeks are just flying by.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/rexwalk.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week I had a lot of Greek Salads. Rather than making my own dressings from the TIU plan, I decided to just grab a bottle of healthy- clear ingredient- greek dressing. I had it practically every day- and it satisfied my craving!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/greek.jpg&#34; alt=&#34;Greek&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Thursday night, after TA, I spotted some 46ers at DBC. Z was at tennis, so I went home to get Rex and we walked on over to say Hi.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/dbc.jpg&#34; alt=&#34;rex and Molly&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This weekend we got to relax. We headed to Ink on Saturday to grab some coffees. It&amp;rsquo;s becoming a routine I love..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/ink.jpg&#34; alt=&#34;Ink Coffee&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/ink2.jpg&#34; alt=&#34;Ink Coffee&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We relaxed on the rooftop for a while, but it was wayyy too warm up there. so we headed back down after awhile.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/rexroof.jpg&#34; alt=&#34;roof&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This weekend was Steph&amp;rsquo;s Bachelorette! I was/am sad I missed out. I&amp;rsquo;m sure it was a great time.. I rocked my bride shirt all day to support the day from afar..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/bach.jpg&#34; alt=&#34;BRIDE SQUAD&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday was RUNDAY. Rex and I started out with a couple miles.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/rexrun.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we headed to Stapleton for Zac&amp;rsquo;s tennis match. He&amp;rsquo;s in a mixed double league and IM SO HAPPY HE&amp;rsquo;S PLAYING AGAIN.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/tennis1.jpg&#34; alt=&#34;tennis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/tennis2.jpg&#34; alt=&#34;tennis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Since we were in Stapleton, we stopped over at Stanley Marketplace. Zac hadn&amp;rsquo;t been yet- and I wanted to grab a latte. Obviously. Problems. Or not. Passion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/stanley1.jpg&#34; alt=&#34;Stanley Marketplace&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/stanley2.jpg&#34; alt=&#34;Stanley Marketplace&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That pretty much wraps up our week. Once again, happy to have Z home with us!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_09/rexz.jpg&#34; alt=&#34;Playing&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>I think that with school, and TAing JavaScript foundations every Tuesday and Thursday- the weeks are just flying by.
+This week I had a lot of Greek Salads. Rather than making my own dressings from the TIU plan, I decided to just grab a bottle of healthy- clear ingredient- greek dressing. I had it practically every day- and it satisfied my craving!
+On Thursday night, after TA, I spotted some 46ers at DBC.</description>
     </item>
     
     <item>
@@ -406,56 +103,9 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_08/</guid>
-      <description>&lt;p&gt;Week two of Mod 2 definitely picked up speed. After spending last week reviewing Q1, this week we dived into some new concepts- all gearing up for backend. We started: ES6, Express &amp;amp; Body parser.&lt;/p&gt;
-
-&lt;p&gt;Monday and Tuesday it was pretty cold. I really don&amp;rsquo;t mind being stuck in the basement when it&amp;rsquo;s snowy outside!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/Burst_Cover_GIF_Action_20170404070839.gif&#34; alt=&#34;snowy commute&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To start the week off on the right foot, I brought in CUPCAKES. Vanilla cupcakes with peanut buttercream frosting. NOMMS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/cupcake.jpg&#34; alt=&#34;Cupcake&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/cupcake2.jpg&#34; alt=&#34;Cupcakes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday we had a guest speaker- &lt;a href=&#34;https://www.blinker.com/&#34;&gt;blinker&lt;/a&gt;. The speaker answered a lot of great questions. Since I got in a few minutes late, I ended up sitting in the back, petting Molly, the whole time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170403_134801.jpg&#34; alt=&#34;Moll Doll&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday we just got covered in snow. It was early day- so I went up the the fourth floor first to grab some untouched snow pictures! It&amp;rsquo;s really beautiful. And easier to appreciate when you know it won&amp;rsquo;t last.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_071416.jpg&#34; alt=&#34;Snow1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_071435.jpg&#34; alt=&#34;Snow&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday after foundations we started streaming George. He&amp;rsquo;s going to start using Twitch to show off some skills with CSS. I&amp;rsquo;m excited to catch a full video sometime, I feel like I could learn a lot from him.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/IMG_20170404_200349.jpg&#34; alt=&#34;Snow&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we had another gWomen lunch! We started white boarding, which is such a great exercise. I&amp;rsquo;m glad to be starting now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/r.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday it was finally starting to really warm up again. A bunch of us got some work down on the balcony- and hung around after for some Tacos!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/fourth.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/prettyfourth.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/kiki.jpg&#34; alt=&#34;Outside Fourth Floor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wrapped up the week with a latte from Brider &amp;lt;3&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/brider.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday scrimmage was a &lt;a href=&#34;https://idea-keeper.herokuapp.com/&#34;&gt;thought collector&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/scrim.png&#34; alt=&#34;screenshot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_08/z.jpg&#34; alt=&#34;M&amp;lt;3Z&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And week 2 is done, three more to go this quarter!&lt;/p&gt;
-</description>
+      <description>Week two of Mod 2 definitely picked up speed. After spending last week reviewing Q1, this week we dived into some new concepts- all gearing up for backend. We started: ES6, Express &amp;amp; Body parser.
+Monday and Tuesday it was pretty cold. I really don&amp;rsquo;t mind being stuck in the basement when it&amp;rsquo;s snowy outside!
+To start the week off on the right foot, I brought in CUPCAKES. Vanilla cupcakes with peanut buttercream frosting.</description>
     </item>
     
     <item>
@@ -464,50 +114,8 @@
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_02/</guid>
-      <description>&lt;p&gt;I am still feeling so incredibly spoiled for having Zac home. I know that he&amp;rsquo;ll be starting another project soon and be back to traveling, but I am loving having him home!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/zr.jpg&#34; alt=&#34;z and rex selfie&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday I finally did something I have been thinking about for a while. I deactivated Facebook. Seriously, I have wanted to get it out of my life for awhile. I was spending too much time doing nothing on there- and actually just hated it. I thought it was hilarious that once I decided to deactivate, it takes you through multiple options of PLEASE DON&amp;rsquo;T. But there was no turning back.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/m.facebook.jpg&#34; alt=&#34;Facebook&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday and Friday Rex went to Galvanize with me, which was great but also meant that I was trying to get some dog exercise in before hand every morning!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/r.galrex.jpg&#34; alt=&#34;rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I got in some really good gym sessions this week. I am still loving everything about Tone It Up and I&amp;rsquo;m looking forward to the bikini series.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/f.gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/f.gym2.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/t.gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Friday I watched most of the mens tennis match on the elliptical. It was an INSANE match. I&amp;rsquo;m so glad Fed won!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/f.tennis.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday Zac and I went to the Galvanize/Pivotal gym to do some Rowing. It was active recovery day for me- So it was a good day to work in something we don&amp;rsquo;t usually get to do. We did a 5-4-3-2-1 partner row for a total of 3000! We made pretty good time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/s.row.jpg&#34; alt=&#34;row&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/s.row2.jpg&#34; alt=&#34;row&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we played some ping pong. I need some practice to keep up.&lt;/p&gt;
-
-&lt;p&gt;In the afternoon, we headed to Public School 303. They have a GREAT happy hour (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; liter of wine). We grabbed a few apps and chatted for awhile. It is really cool that we can talk about tech in a new way now. Things I would not have understood, at all, just months ago we can now talk about at length.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/s.ps.jpg&#34; alt=&#34;Public School&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/s.ps2.jpg&#34; alt=&#34;Public School&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And Saturday night we made some popcorn and watched a movie. I love honey powder with popcorn SO MUCH. There is a local store down the road that sells a ton of spices, and this one is a winner. Saturday night, I was literally asleep by 9:30. &lt;strong&gt;win&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_02/s.popcorn.jpg&#34; alt=&#34;Popcorn&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another week down.. and up next is another week with Zac home!&lt;/p&gt;
-</description>
+      <description>I am still feeling so incredibly spoiled for having Zac home. I know that he&amp;rsquo;ll be starting another project soon and be back to traveling, but I am loving having him home!
+Monday I finally did something I have been thinking about for a while. I deactivated Facebook. Seriously, I have wanted to get it out of my life for awhile. I was spending too much time doing nothing on there- and actually just hated it.</description>
     </item>
     
     <item>
@@ -516,64 +124,8 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_04_01/</guid>
-      <description>&lt;p&gt;I CAN&amp;rsquo;T BELIEVE ITS ALREADY QUARTER TWO. WHOOOP! Time is FLYING! The walk in on Monday morning felt pretty good. Ready to start again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/m.walk.jpg&#34; alt=&#34;Platte St&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday and Tuesday we were reviewing Q1 materials to prep for our Wednesday Assessment. Tuesday was early day again. Proof that I was totally off my game is that I accidentally brewed two pots of coffee in one pot. I came out and saw it overflowing onto the counter- &lt;strong&gt;ugh!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/t.coffee.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/t.morning.jpg&#34; alt=&#34;Tuesday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday was assessment- and I loved it. We were given a wireframe and user stories and the whole day to deliver the product. It was a long day, but I enjoy the full projects that we work on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/w.assessment.jpg&#34; alt=&#34;Wednesday assessment&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/w.ass2.jpg&#34; alt=&#34;Stories&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday and Friday our apartment complex was doing fire alarm testing so Rex was a gSchool student!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex2.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.rex3.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s actually really nice to bring Rex in, because during breaks I go outside with him. I feel like the fresh air does good!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.outside.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.outside2.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday we learned a couple new things- first we covered Node.js- I have to take some time this weekend to review that in more depth..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.node.jpg&#34; alt=&#34;Rex&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We were also introduced to npm, and they did an AWFUL but very helpful exercise with evil npm packages. Pretty much- I know to review and research anything I ever download from npm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.npm.jpg&#34; alt=&#34;npm&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday gWomen held a lunch- it was nice to get together and chat. I look forward to meeting with the ladies more! I did think it was funny because a few of us had &amp;lsquo;packed&amp;rsquo; lunches which were really just like food items in their original packaging.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/r.lunch.jpg&#34; alt=&#34;lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was a scrimmage day. We did paired programming and I LOVED IT. My partner and I worked together really well, and avoided so many small mistakes by working together. We finished pretty early, and felt good about what we did!&lt;/p&gt;
-
-&lt;p&gt;Zac brought me some lunch- Protos Pizza! I love it so much, and was crazy grateful that he brought it for me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.lunch.jpg&#34; alt=&#34;pizza lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.lunch2.jpg&#34; alt=&#34;pizza lunch&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the afternoon, I took Rex home. We got an email that alarm testing was done- and there was a large dog that was giving him some anxiety. We headed home in the rain, and on the way back I grabbed a latte at Ink for warmth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.rain.jpg&#34; alt=&#34;rain&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_04/2017_04_01/f.latte.jpg&#34; alt=&#34;latte&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All in all, it was a slower week for Galvanize. But I think we needed it, and I still learned a few important things. I think this quarter is going to be really hard, but I&amp;rsquo;m excited to be learning again!&lt;/p&gt;
-</description>
+      <description>I CAN&amp;rsquo;T BELIEVE ITS ALREADY QUARTER TWO. WHOOOP! Time is FLYING! The walk in on Monday morning felt pretty good. Ready to start again!
+Monday and Tuesday we were reviewing Q1 materials to prep for our Wednesday Assessment. Tuesday was early day again. Proof that I was totally off my game is that I accidentally brewed two pots of coffee in one pot. I came out and saw it overflowing onto the counter- ugh!</description>
     </item>
     
     <item>
@@ -582,80 +134,8 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_27/</guid>
-      <description>&lt;p&gt;At the end of project week, I was feeling pretty good (energy wise). I fully expected myself to be spending my break days coding and learning! As it turns out, I had no idea how badly I needed a break until I had it. I started a few projects here and there, and worked on a few things. But mostly, I did laundry and errands-&lt;/p&gt;
-
-&lt;p&gt;On Monday, I started working on an Atom Package. Zac was a huge help- I don&amp;rsquo;t have much experience with classes yet, so there was a learning curve that he helped me through. It&amp;rsquo;s still a work in progress, but a really cool project to work on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/m.atom.jpg&#34; alt=&#34;Atom Package&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday Zac went to Wash Park to do some tennis drills. Rex and I went down and walked the park while he played.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/m.tennis.jpg&#34; alt=&#34;Wash Park Tennis&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday my new phone case came in! I ordered the same exact one I&amp;rsquo;ve had. After a few drops, my phone is still in perfect condition, but the case was compromsied. I feel better having a sturdy one again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/phonecase.jpg&#34; alt=&#34;Android case&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday night I was TAing for an intro to JavaScript class and stopped by the fundamentals class to say Hi! James has been with that class since the start, and was helping out with a few homework problems before class. I think that Galvanize needs to tweak a few aspects of that class- it just is not working how it should- and from what I have seen, does not meet the Galvanize Standard that I am use to. Until then, starting next week I&amp;rsquo;ll be helping out regularly there too.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/t.james.jpg&#34; alt=&#34;JS Fundamentals&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wednesday night an old friend from HS was coming for dinner- so I spent the day cleaning up and grooming Rexy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/w.rexbath.jpg&#34; alt=&#34;Wet Rexy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mid day, I met Zac for lunch at Denver Beer Co. Food truck was stir fry! It was really good, and so nice outside.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/w.lunch.jpg&#34; alt=&#34;Lunch date &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/w.lunch2.jpg&#34; alt=&#34;Lunch date &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/w.lunch3.jpg&#34; alt=&#34;Lunch date &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dinner was fun, and we found ourselves looking through year books - remembering random stuff and being super happy that we&amp;rsquo;re not still in high school (because awful).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/w.dinner.jpg&#34; alt=&#34;Yearbooks&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday was another beautiful day. A friend who lives in the complex had taken the day off- so we sat up on the rooftop balcony and got some sun. Leo, her dog, is such a cuddler. He did not care that it was like 80 degrees in full sun- he was happy to curl up in my lap.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/r.leo.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/r.rex.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After, Rex and I got some work done outside. BECAUSE ALL THE SUN PLEASE.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/r.outside.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday night I TAed for Free Code Camp and had a blast. I highly suggest it to Galvanize Students. Everyone was at different points in learning, but it was fun to engage and talk through various problems.&lt;/p&gt;
-
-&lt;p&gt;By Friday, I realized that my ideal week didn&amp;rsquo;t happen. I had been hitting the gym at 9pm instead of 6am, hadn&amp;rsquo;t finished any projects and definitely didn&amp;rsquo;t refactor anything from Q1. But- it was super successful and needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/gym2.png&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the weekend we relaxed. Got lattes, made pancakes and generally took it easy before I head back for Q2.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/s.latte.jpg&#34; alt=&#34;saturday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/s.mask.jpg&#34; alt=&#34;saturday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/s.pancake.jpg&#34; alt=&#34;saturday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fun fact is that I cannot make pancakes. Listen- I don&amp;rsquo;t know. I just don&amp;rsquo;t know what I do wrong EVERY time. So- after many failed attempts, Zac is the official pancake maker here.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/s.pancake2.jpg&#34; alt=&#34;saturday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We rented Passengers Saturday night- it was SO GOOD. Way different than I expected- I love it when a trailer doesn&amp;rsquo;t tell you the full story.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/s.passengers.jpg&#34; alt=&#34;saturday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday is run-day, and we did a family run! I think we all did really good. Running in Denver is rough. We finished our three miles and felt pretty accomplished.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_27/u.runday.jpg&#34; alt=&#34;sunday&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunday afternoon we grabbed groceries, and did a little meal prep. THEN it was time for TWD! I can&amp;rsquo;t believe next week is the season finale&amp;hellip;. ANXIETY!&lt;/p&gt;
-</description>
+      <description>At the end of project week, I was feeling pretty good (energy wise). I fully expected myself to be spending my break days coding and learning! As it turns out, I had no idea how badly I needed a break until I had it. I started a few projects here and there, and worked on a few things. But mostly, I did laundry and errands-
+On Monday, I started working on an Atom Package.</description>
     </item>
     
     <item>
@@ -664,113 +144,8 @@
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_25/</guid>
-      <description>
-
-&lt;p&gt;During undergrad I spent one year working as an RA. I had a double room all to myself. I cozied it up, and made it my own. One day, a resident stopped by.. “Your room smells so good. I just HAD to tell you. I can smell it all the way down the hall! I love it”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/dorm.png&#34; alt=&#34;my dorm room&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wait? Really? I was surprised. I mean, my room was clean and cute&amp;ndash; for a dorm. But smell? I had bought an oil diffuser set from Target, and I was totally nose blind to the smell. Sure enough, when I came back from a holiday break, my room smelled amazing! I bought 2 more diffusers that year (same smell, same brand). That first resident wouldn’t be the last one to compliment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/light.jpg&#34; alt=&#34;lit candles&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But I guess it made sense&amp;hellip; Since I was younger, I’ve had a love affair with candles. My mom use to attend candle parties. Beforehand, I always got a look at the catalog and picked out my favorites. Today: book theme candles, wine candles, great-smelling candles, ok-smelling candles, summer candles, winter candles, diy candles, farmers market candles, special wick candles, candle melts, &lt;strong&gt;OH MY GOSH SIGN ME UP.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;get-scenty&#34;&gt;GET SCENTY&lt;/h1&gt;
-
-&lt;p&gt;Essentially, for the sake of this post, I am a self declared smell connoisseur. Based on my experiences, here are my tips for a great whole house scent.&lt;/p&gt;
-
-&lt;h2 id=&#34;pick-a-scent&#34;&gt;PICK A SCENT.&lt;/h2&gt;
-
-&lt;p&gt;Ok, I think this one is the hardest. Not a specific scent like “French Countryside”. Pick a main scent family like floral, bakery, fresh, etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/candlemaker.png&#34; alt=&#34;The Candle Maker Site&#34; /&gt;
-- &lt;a href=&#34;https://thecandlemakersstore.com/fragrances/fragrance-categories.html&#34;&gt;From: The Candle Makers Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Why? For a couple years, I wanted every room to have it’s own scent. The laundry/bath rooms would be ‘fresh’, the kitchen would be bakery, the bedroom would be calming&amp;hellip; I ended up with OK smelling areas, and no cohesive feeling. By picking one scent and spreading it throughout you can create an actual feeling within your home- as well as a signature scent that belongs to your home alone. There is nothing better than someone thinking, “Oh, this smells like your house” -in a good way.&lt;/p&gt;
-
-&lt;h3 id=&#34;start-with-your-base-smell&#34;&gt;Start with your base smell&lt;/h3&gt;
-
-&lt;p&gt;This is going to be you main, favorite, scent. It should define your scent category. It’s going to guide the way you decide in the upcoming step.&lt;/p&gt;
-
-&lt;h3 id=&#34;add-scent&#34;&gt;Add Scent&lt;/h3&gt;
-
-&lt;p&gt;While we&amp;rsquo;re not putting different smells all over, we definitely want to have some variety. You’ll want to compliment the base scent with a few others. Pick ones that are in the same scent category, and have similar undertones. The goal is to pick scents that are similar enough that they blend together, but varied enough that the end smell is unique.&lt;/p&gt;
-
-&lt;h3 id=&#34;change-up-your-delivery-methods&#34;&gt;Change up your delivery methods&lt;/h3&gt;
-
-&lt;p&gt;It’s important that you have a few options for infusing your home with your scent. Candles are wonderful, but emit the best smell while burning (I also suggest keeping the lid off the candle when not burning, you will get a slight scent this way). Some other options include diffusers, plug in diffusers, oils, warmers, potpourri, spray and cleaning supplies.&lt;/p&gt;
-
-&lt;h3 id=&#34;disperse&#34;&gt;Disperse&lt;/h3&gt;
-
-&lt;p&gt;One of the major components of a ‘house scent’ is that the smell seems to come from everywhere and not one place. The larger the house, the more effort will need to be made, the smaller- the easier. You’ll want more scent in larger spaces, and those that have high foot traffic, and less in smaller areas. But don’t count out closets and cupboards (&amp;amp; I always stick a cheap diffuser under my sink next to my garbage can).&lt;/p&gt;
-
-&lt;h3 id=&#34;maintain&#34;&gt;Maintain&lt;/h3&gt;
-
-&lt;p&gt;That’s it! You have a house full of your favorite scent. Every month you should flip your reeds in your reed diffusers, and restock candles as needed. Also, take a break and get away once in awhile. When you come home, you’ll be amazed by how good it smells.&lt;/p&gt;
-
-&lt;h4 id=&#34;last-tip-if-you-want-to-change-up-smells-do-it-gradually-switch-out-a-diffuser-here-a-candle-there-until-you-ve-replaced-everything-this-way-your-old-scent-will-blend-into-your-new-one&#34;&gt;Last tip: If you want to change up smells, do it gradually. Switch out a diffuser here, a candle there, until you’ve replaced everything. This way your old scent will blend into your new one.&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;our-scent&#34;&gt;OUR SCENT&lt;/h1&gt;
-
-&lt;p&gt;When we moved out to Colorado I completely fell back in love with fir trees. It’s funny, because we had them in NY, and I always loved the smell, but moving here- I just ADORE them and their fantastic varied smell. We had been hiking a bunch, and I couldn’t get enough of them. I decided to bring that home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/rmnp.jpg&#34; alt=&#34;RMNP&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;scent-category&#34;&gt;Scent Category:&lt;/h2&gt;
-
-&lt;p&gt;Crisp Warm (I knew I wanted FIR as the base, so I kind of skipped this step)&lt;/p&gt;
-
-&lt;h2 id=&#34;base-scent&#34;&gt;Base Scent:&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.thymes.com/Fragrances/Frasier-Fir/&#34;&gt;Thymes Frasier Fir&lt;/a&gt;:  “Crisp Siberian Fir needles, heartening cedarwood, relaxing sandalwood”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/Thymes.png&#34; alt=&#34;Thymes&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;varied-scents-yankee-candle&#34;&gt;Varied Scents (Yankee Candle):&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mistletoe: “Woody scents of mistletoe, berries, pine boughs and holly”&lt;/li&gt;
-&lt;li&gt;Balsam &amp;amp; Cedar: “Balsam, aromatic cedarwood and juniper berry blend”&lt;/li&gt;
-&lt;li&gt;Christmas Wreath: “Fresh-cut boughs and branches of pine, balsam and hollyberry”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/living.jpg&#34; alt=&#34;living room&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/bath.jpg&#34; alt=&#34;bathroom&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All three varied scents tie into the main scent with fir/pine notes. The Balsam &amp;amp; Cedar go the next step and blend into cedarwood. Lastly, the other two varied scents tie into the balsam &amp;amp; cedar with berry scents.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/bedroom.jpg&#34; alt=&#34;bedroom&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/desk.jpg&#34; alt=&#34;bathroom&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;disperse-1&#34;&gt;Disperse:&lt;/h2&gt;
-
-&lt;p&gt;We have a small apartment right now, so I picked two methods- diffusers and candles. For our base scent, I purchased three Thymes Frasier Fir diffusers. A large one for the living/kitchen area, and two small ones for the bedroom and bathroom. Then, bouncing around the apartment I have two large jar mistletoe candles, one Frasier fir candle and three small candles (mistletoe, Christmas wreath and balsam &amp;amp; cedar).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/kitchen.jpg&#34; alt=&#34;kitchen&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;more-varied-scents-cleaning&#34;&gt;More Varied Scents (cleaning):&lt;/h2&gt;
-
-&lt;p&gt;We have the Frasier Fir all purpose cleaner, and I wipe down the counters once in awhile. In addition, we use the Williams-Sonoma Winter Forest soap and room spray. (The hand soap is expensive, so I mix it with a cheap light-scented soap)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/fraiserfir.JPG&#34; alt=&#34;frasier&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Williams-Sonoma - Winter Forest: &amp;ldquo;Invigorating collection mingles the clean scent of pine with cedar wood, cinnamon, patchouli, thyme and citrus&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/soap.jpg&#34; alt=&#34;soap&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/spray.jpg&#34; alt=&#34;spray&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I love our scent. When we went away for the holidays this year and came back, it smelled so good. I might change it up in a couple months. Or, maybe, this one could be a keeper.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;By the way, if I only ever get candles as gifts from this post on in my life, that’s excellent.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_25/pinterest.jpg&#34; alt=&#34;pinterest&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>During undergrad I spent one year working as an RA. I had a double room all to myself. I cozied it up, and made it my own. One day, a resident stopped by.. “Your room smells so good. I just HAD to tell you. I can smell it all the way down the hall! I love it”
+Wait? Really? I was surprised. I mean, my room was clean and cute&amp;ndash; for a dorm.</description>
     </item>
     
     <item>
@@ -779,97 +154,9 @@
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_21/</guid>
-      <description>&lt;p&gt;Time to recap the life portion of the school life balance from last week!&lt;/p&gt;
-
-&lt;p&gt;Monday at the gym ALL OF THE DUMBBELLS WERE THERE. I have never seen this before. People suck at picking up after themselves&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/m.gym.jpg&#34; alt=&#34;gym&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tuesday night we grilled on the roof. We were hoping to catch some Tennis up there on the TV- but apparently our complex has different subscriptions in different rooms.. So after, we ended up back in the apartment subscribing to tennis channel&amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/t.roof.jpg&#34; alt=&#34;Rooftop&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/t.roof2.jpg&#34; alt=&#34;Rooftop&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week I have a cautionary tale for meal prepping&amp;hellip; I tend to use the same meals throughout the week. It makes shopping, prepping and cooking easier. But this week, I felt AWFUL after eating lunch on Monday. Due to food or not, I just couldn&amp;rsquo;t bring myself to eat the food I had prepped. Ugh- what a waste. I learned a lesson, and when I meal plan this week for Quarter two, I&amp;rsquo;ll be incorporating some variety through the week.&lt;/p&gt;
-
-&lt;p&gt;So- food was basic- and I found a new combination I LOVE. My favorite Wegmans Granola and Coconut Noosa. Noosa is becoming my FAVORITE, slowly taking over my Chobani flip obsession.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/m.lunch.jpg&#34; alt=&#34;yogurt&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/m.yogurt.jpg&#34; alt=&#34;yogurt&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My new Micron pens came in this week! I can&amp;rsquo;t wait to start playing with them and some typography books. You know, when I have a second of free time again lol.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/w.micron.jpg&#34; alt=&#34;pens&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It has been so great to have Zac home. We&amp;rsquo;re getting totally spoiled.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/w.dog.jpg&#34; alt=&#34;CAD&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thursday was REALLY exciting. First, my project in school was done- but after school we had a dinner and movie date!&lt;/p&gt;
-
-&lt;p&gt;We decided to go to a well known restaurant in downtown called Guard and Grace. It was wonderful. Everything was so good. I got a glass of red wine, a house salad and a 4 oz filet. If you want a steak in Denver, I highly recommend!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/r.dinner.jpg&#34; alt=&#34;dinner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/r.dinner2.jpg&#34; alt=&#34;dinner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I totally bought tickets to Beauty and the Beast a month before it came out! IT WAS SO GOOD! AHHH! I CAN&amp;rsquo;T WAIT TO SEE IT AGAIN. I&amp;rsquo;ll be preordering that one&amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/r.beauty.jpg&#34; alt=&#34;Beauty and the Beast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was the official start to break. I got home around 3:30- and sat in the sun, started my new Shades of Magic book and started relaxing!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/f.book.jpg&#34; alt=&#34;book&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/f.dog.jpg&#34; alt=&#34;dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We cooked up on the roof again- enjoyed dinner in sun.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/f.dinner.jpg&#34; alt=&#34;dinner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/f.roof.jpg&#34; alt=&#34;rooftop&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;About 4 hours later I had Atom open starting a new project, because, who takes a real break?&lt;/p&gt;
-
-&lt;p&gt;Saturday morning I made bacon and apple omelettes. I LOVE putting apples in with the bacon. Seriously, it&amp;rsquo;s a great combination.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/s.breakfast.jpg&#34; alt=&#34;breakfast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we went to Aurora for a bike sale. Didn&amp;rsquo;t find anything we needed, and so we headed to Cherry Creek so Zac could order his tux for the upcoming wedding.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/s.cherry.jpg&#34; alt=&#34;Cherry Creek&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After we got back, Zac went on a bike ride ( I NEED TO GET MY SHIT TOGETHER AND GO! - &lt;strong&gt;clip in pedal problems&lt;/strong&gt; ). I got some snaps from my cohort that there was a housewarming party about .5 miles away from where I live- so I popped over to say hi and meet some people. Hot Dudes Reading was on the table- FTW.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/s.house.jpg&#34; alt=&#34;HDR&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Saturday we decided to go for an easy hike. We have some goals this year- and should start training easy. We headed up to &lt;a href=&#34;http://dayhikesneardenver.com/glendale-farm-trail-douglas-county-open-space/&#34;&gt;Glendale&lt;/a&gt; to do a quick loop. After, we went into the off leash area and let Rex trot around.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/u.glendale.jpg&#34; alt=&#34;Hike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/u.off.jpg&#34; alt=&#34;Hike&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When we got home, I made Coffee Smoothies. I didn&amp;rsquo;t measure, but it was something like this:
-- .5 Cup Almond Milk
-- 1.5 Cup Coffee
-- 2T Peanut Butter
-- 2 Scoops Vanilla Protein
-- 1T coffee grounds&lt;/p&gt;
-
-&lt;p&gt;They were really good. Will be making more in the future, and playing with the ingredients!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/u.coffee.jpg&#34; alt=&#34;smoothie&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We grilled dinner, again, of course, &amp;lsquo;TIS THE SEASON!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/u.grill.jpg&#34; alt=&#34;grill&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Book Update is that A Conjuring of Light is AMAZING. All the feels, already. LOVE THIS WORLD.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_21/u.book.jpg&#34; alt=&#34;Book&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Time to recap the life portion of the school life balance from last week!
+Monday at the gym ALL OF THE DUMBBELLS WERE THERE. I have never seen this before. People suck at picking up after themselves&amp;hellip;
+Tuesday night we grilled on the roof. We were hoping to catch some Tennis up there on the TV- but apparently our complex has different subscriptions in different rooms.. So after, we ended up back in the apartment subscribing to tennis channel&amp;hellip;.</description>
     </item>
     
     <item>
@@ -878,53 +165,246 @@
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mihshhehl.github.io/post/2017_03_18/</guid>
-      <description>&lt;p&gt;Wow, what a week! It seriously FLEW by. First, I&amp;rsquo;ll review some pictures from the week, then get into the nitty gritty of projects&amp;hellip;.&lt;/p&gt;
-
-&lt;p&gt;After the weekend, I decided that Monday was the best day to bring Rex into class. It works for our schedule, and fits better with the general flow at school. He only stayed a half day- because, projects. Also, HE SHAMED THE FAMILY by deciding to mark a classmates bag. UGH REX WTH, MAN! The guy was super generous and I still feel awful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/m.rex.jpg&#34; alt=&#34;rexy&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Monday morning we had a guest speaker- Dish Network! I only went because I was assured that I could sit in the back and do work - that it wouldn&amp;rsquo;t be rude. I guess this is a good time to say that I did NOTHING special or extra this week. I didn&amp;rsquo;t attend any meet ups or go to breakout sessions. It was a busy week, and I prioritized what I thought was best for me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/m.dish.jpg&#34; alt=&#34;Dish&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pretty much all week I worked upstairs, getting sun and fresh air.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/t.upstairs.jpg&#34; alt=&#34;Up&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/t.lion.jpg&#34; alt=&#34;Dog&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/w.balcony.jpg&#34; alt=&#34;Balcony&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;OK, BEFORE I jump into Friday, I&amp;rsquo;ll cover the project.&lt;/p&gt;
-
-&lt;p&gt;Quarter one projects are the embodiment of what we&amp;rsquo;ve learned this quarter. I submitted two ideas last Friday, and was directed to a certain one. What did I work on all week? GX!: Gifting Experiences. I decided to make something that was important to me, and perhaps would make life a little easier. I am really passionate about gifting experiences rather than material items- and in the past few years have gained some insight and experience in doing so. My idea was to create a web app that would allow a user to sort through gifts and return ones that fit with their scenario.&lt;/p&gt;
-
-&lt;p&gt;The requirements included: valid HTML, CSS, JavaScript and CSS Framework. Connect to at least one external API, and deploy to a production environment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.timeline.jpg&#34; alt=&#34;timeline&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, it took me all week. I used two API&amp;rsquo;s (for weather and location) and by Wednesday night, I had a MVP (minimal viable product). Thursday I cleaned it up- and Friday, presented! Being honest, it could use some work and in the future, I&amp;rsquo;d like to do things differently (for instance, NOT use a CSS framework- but design the site myself).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/api.png&#34; alt=&#34;Screen Shot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Top things I learned?: 1. Local storage! Whoop. 2. When generating ideas- consider how much of the outcome relies on your creating content. The main product of the web app I created was written rather than pulled. I could spend hours and hours updating that content to make it better; and the product is that content! In the future, I will highly consider that.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.wireframe.jpg&#34; alt=&#34;wireframe&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Friday was presentation day. We submitted our projects (Github, deployed and wireframes)- and spent about 2-3 minutes demo-ing our product. I was BLOWN AWAY by my awesome cohort. Like, way to go guys. After, we were released for lunch and to create a YouTube video tutorial. About an hour before we were due back for retro- we were all finished and a bunch of us sat outside at DBC across the street.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.DBC.jpg&#34; alt=&#34;DBC&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then we did Retro.. and PROJECT WEEK WAS COMPLETE.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://mihshhehl.github.io/images/2017_03/2017_03_18/f.retro.jpg&#34; alt=&#34;RETRO&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That means that I AM ON BREAK. One week. I &lt;strong&gt;plan&lt;/strong&gt; on getting a lot done- we&amp;rsquo;ll see!&lt;/p&gt;
-
-&lt;p&gt;So, you can check out my deployed web app here:
-&lt;a href=&#34;https://giftx-d0791.firebaseapp.com/index.html&#34;&gt;GX: Gifting Experiences&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Wow, what a week! It seriously FLEW by. First, I&amp;rsquo;ll review some pictures from the week, then get into the nitty gritty of projects&amp;hellip;.
+After the weekend, I decided that Monday was the best day to bring Rex into class. It works for our schedule, and fits better with the general flow at school. He only stayed a half day- because, projects. Also, HE SHAMED THE FAMILY by deciding to mark a classmates bag.</description>
+    </item>
+    
+    <item>
+      <title>Spring is close...</title>
+      <link>https://mihshhehl.github.io/post/2017_03_12/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_03_12/</guid>
+      <description>Energy was pretty low this week, and I wasn&amp;rsquo;t feeling fantastic some days- but it was a good week.
+Monday night we rented Dr. Strange. IT WAS SO GOOD. It&amp;rsquo;s actually probably one of my favorite movies now. I&amp;rsquo;ll have to own it and watch it again and again&amp;hellip; I HOPE there is another (&amp;amp;soon).
+Tuesday was my early day so we hit the gym and took it easy.
+Wednesday Zac and I grabbed lunch at Brider.</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w4</title>
+      <link>https://mihshhehl.github.io/post/2017_03_11/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_03_11/</guid>
+      <description>Monday morning two classmates pulled together to bring in a BUNCH of doughnuts! They are for sure not on the plan- but I had one and it literally made me happy- so there&amp;rsquo;s that. (ps. they were awesome for doing that).
+We started off the week with a guest speaker- a UX designer! It was a really interesting talk- and I appreciate seeing and hearing from different people in the tech field- who work in the various aspects of web development.</description>
+    </item>
+    
+    <item>
+      <title>Hack the Planet</title>
+      <link>https://mihshhehl.github.io/post/2017_03_06/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_03_06/</guid>
+      <description>HACK THE PLANET WAS SO MUCH FUN.
+So Saturday I participated in my FIRST EVER HACKATHON. It was also the first ever gSchool hackathon. The event started around 8:30, but I showed up early to get put into a team. Since I&amp;rsquo;m still new to this world, and the event wanted to encourage cross cohort/location collaboration- I decided to go in as a single and get paired up with a group.</description>
+    </item>
+    
+    <item>
+      <title>Another week goes by!</title>
+      <link>https://mihshhehl.github.io/post/2017_03_05/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_03_05/</guid>
+      <description>SO MANY PHOTOS IN THIS POST&amp;hellip;
+Last Sunday was a prepare for the week day! Steph and Geoff had just left on Saturday, so I spend Sunday catching up around the house, grabbing groceries, and mostly meal prepping!
+We stopped at the container store, and Zac ensured that I contained myself. Still my fav.
+Monday night was craft night! I headed over to Cojo&amp;rsquo;s with my banner supplies for Stephs Shower!</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w3</title>
+      <link>https://mihshhehl.github.io/post/2017_03_04/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_03_04/</guid>
+      <description>Week three of module one is officially complete! At the end of the week, I am feeling pretty great!
+Monday we covered objects, arrays and intro to jQuery. I realized I hadn&amp;rsquo;t looked at objects in months.. and for sure needed a refresher. I liked learning jQuery&amp;mdash; although I know to be careful in using it for all things in the future.
+This week we had Roberto as our floating instructor.</description>
+    </item>
+    
+    <item>
+      <title>VISITORS</title>
+      <link>https://mihshhehl.github.io/post/2017_02_25/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_25/</guid>
+      <description>Saturday morning we cleaned up around the house- then headed to the airport to meet Steph &amp;amp; Geoff!
+Luckily, Steph brought supplies to restock our Wegmans necessities! the best!
+We were so excited to have guests, and there were so many places we wanted to take them!
+Saturday evening we headed over to Galvanize, so I could show all three around my new school. We met an instructor and one of my cohort peers who was getting some work in.</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w2</title>
+      <link>https://mihshhehl.github.io/post/2017_02_24/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_24/</guid>
+      <description>A short week! Monday we were off for Presidents day! Tuesday we started off covering test based assessments. Right now, we are using them for some of our assessments- but I look forward to Q2 when we learn how to write them! Now we have an updated flow/map of Q1:
+We also spent some more time on Responsive CSS. I will say that by the end of this week, I feel much better about the topic and like flex box a lot more.</description>
+    </item>
+    
+    <item>
+      <title>Life Balance</title>
+      <link>https://mihshhehl.github.io/post/2017_02_18/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_18/</guid>
+      <description>So this past week was my first at Galvanize, but there was time outside of class! I&amp;rsquo;m going to try to break up my posts between school work, and life outside of class..
+This past week Zac was in Portland, so every night we caught up on my day! I think he was as excited as me that I started school.
+Monday I came home and just relaxed. All week it was really great that I had easy meals ready to go.</description>
+    </item>
+    
+    <item>
+      <title>gwd46 m1w1</title>
+      <link>https://mihshhehl.github.io/post/2017_02_17/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_17/</guid>
+      <description>WEEK ONE GALVANIZE!
+On day one, we played the name game Mighty Michelle and met instructors, administrators, etc! Our first lesson was on &amp;lsquo;How to learn.&amp;rsquo; They served us a great lunch- wraps from protein bar!
+My legs were super sore from runday on Sunday, and standing through the name game killed me! So, I sat on the ground. Nothing like a first impression-
+In the afternoon, we got another tour, received our key fobs and talked about the Galvanize Culture.</description>
+    </item>
+    
+    <item>
+      <title>Beautiful weekend</title>
+      <link>https://mihshhehl.github.io/post/2017_02_12/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_12/</guid>
+      <description>Last free weekend before Galvanize was wonderful! Thursday evening I headed over to Galvanize for an informal get together- saying HI before starting on Monday. I met Kiki, our class dog!
+Thursday night we headed out to Avanti for dinner. It was a gorgeous night, and we stopped by Prost first.
+It was so nice to sit outside and chat about life. Then we headed to Avanti, we sat downstairs, ordered some pizza for National pizza day, and went up to the roof for a little while.</description>
+    </item>
+    
+    <item>
+      <title>A busy relaxing week</title>
+      <link>https://mihshhehl.github.io/post/2017_02_08/</link>
+      <pubDate>Wed, 08 Feb 2017 17:00:00 +0900</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_08/</guid>
+      <description>It&amp;rsquo;s been so gorgeous here lately, that it&amp;rsquo;s hard to believe that a week ago everything was covered in ice! We had a nice day, and right as the sun was setting, starting getting some drizzle. Well, it all turned to ice and our walk that night and the next morning was treacherous.
+I am officially in the last week of the January 2017 Tone It Up Challenge! I&amp;rsquo;m loving it, and I plan to keep it up afterwards.</description>
+    </item>
+    
+    <item>
+      <title>659 Square Feet</title>
+      <link>https://mihshhehl.github.io/post/2017_02_05/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_05/</guid>
+      <description>Back in July we moved out of our house in NY. It was a 1,452 sqft house (not including the full finished basement, or the bonus room above the garage). We moved from a house with four bedrooms, and two bathrooms to a one bed, one bath apartment. A mere 659 sqft. Here, my friends, is how we make it work..
+FULL DISCLOSURE: We also have a storage unit. It&amp;rsquo;s small, and contains our spare tires, tool box and bikes.</description>
+    </item>
+    
+    <item>
+      <title>Fitness &amp; Friends</title>
+      <link>https://mihshhehl.github.io/post/2017_02_01/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_02_01/</guid>
+      <description>Friday night we went out for Thai! As usual, Zac ordered the better dish. Mine was a little (way) too spicy for my likes, so I helped Z out a bit. It was good, but we&amp;rsquo;ll still be on the hunt for Denvers best Thai!
+Saturday night we went out for a few drinks. We wanted to stay close, since Zac was still recovering. We headed to Zengo, but they had a huge Year of the Rooster celebration going on, and we weren&amp;rsquo;t able to get in the door!</description>
+    </item>
+    
+    <item>
+      <title>Sick &amp; sick.</title>
+      <link>https://mihshhehl.github.io/post/2017_01_27/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_27/</guid>
+      <description>Last week Rex and I had some movie dates. We watched The Secret Life of Pets (adorable) and The Legend of Tarzan (amazing). I even let him on the couch, because I. Am. Weak.
+We had a few beautiful days, so we went on long walks in the highlands and lodo.
+Zac got home last Thursday night, and he has been sick with an awful cold since.
+Then, this weekend, Rex got some form of conjunctivitis.</description>
+    </item>
+    
+    <item>
+      <title>Code Catchup</title>
+      <link>https://mihshhehl.github.io/post/2017_01_26/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_26/</guid>
+      <description>Since moving to Denver in July, I have been working hard to learn how to code.
+Way back in middle school, I ran a website. It was for quotes- which I am sure were not properly cited, but the site was cool, the cursor had a tail, and it was definitely pink. I was self taught. After school, I would come home and sit at the computer for hours trying to figure out how the code worked.</description>
+    </item>
+    
+    <item>
+      <title>Fight Gone Bad</title>
+      <link>https://mihshhehl.github.io/post/2017_01_19/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_19/</guid>
+      <description>It takes 21 days to make a habit, and I&amp;rsquo;m on day 19 of Tone It Up! That&amp;rsquo;s 2 days from a habit? AND 2 days since &amp;ldquo;Ditch Day&amp;rdquo;. This week I&amp;rsquo;m feeling great again. Last week I had some ups and downs-
+First, helpful tool of the week: CARDIO PLAYLIST ON SPOTIFY. Seriously love this list so much. After I finished my last audiobook, I couldn&amp;rsquo;t get into the next one I picked.</description>
+    </item>
+    
+    <item>
+      <title>The movies, Lax and drinks!!</title>
+      <link>https://mihshhehl.github.io/post/2017_01_17/</link>
+      <pubDate>Tue, 17 Jan 2017 17:00:00 +0900</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_17/</guid>
+      <description>I can&amp;rsquo;t believe it&amp;rsquo;s only been 9 days since my last post, and I can&amp;rsquo;t believe it&amp;rsquo;s been 9 days! After a slow start to last week, the second half and weekend flew by! I think this post will be a long one&amp;hellip;
+(How great is that sweatshirt thought? It&amp;rsquo;s IndyBrand and I want ALL THE THINGS).
+Monday morning Zac was off to LA for work! Rex and I went for a great walk.</description>
+    </item>
+    
+    <item>
+      <title>Tone it Up!</title>
+      <link>https://mihshhehl.github.io/post/2017_01_10/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_10/</guid>
+      <description>It&amp;rsquo;s been just over a week since I started Tone It Up! I&amp;rsquo;ve used the nutrition plan for Fit Girls a few times the past couple years, and while I loved the food, I started to get sick of the same recipes. It was time to switch things up!
+So far, I&amp;rsquo;m loving the meals- and the daily workouts are definitely doable.
+One dinner I love is Lentil Butternut Squash Soup.</description>
+    </item>
+    
+    <item>
+      <title>Starting off 2017!</title>
+      <link>https://mihshhehl.github.io/post/2017_01_08/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_08/</guid>
+      <description>Hope everyone has had a great start to the year! It was a cold week here in Denver, but we had a great week nonetheless. I have been re-watching Downton Abbey&amp;ndash; on Monday I realized I could stream Amazon Video through the XBox, and I am THRILLED. Truth is, I missed the last season, and I need to watch! I&amp;rsquo;ve kept them playing pretty much all day while I work on different CodeAcademy/Computer Projects.</description>
+    </item>
+    
+    <item>
+      <title>Monthly Reads</title>
+      <link>https://mihshhehl.github.io/post/2017_01_05/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_05/</guid>
+      <description>In December I finished 11 books. That&amp;rsquo;s CRAZY! I think that I associate the holiday season with curling up with a book.. and therefore take every opportunity to do so!
+The books: The Graveyard Book Vol 1,
+The Graveyard Book Vol 2,
+Winter Stroll, Winter Storms, Eligible, Crooked Kingdom, The Woman in Cabin 10, All The Time in the World, A Man Called Ove, Paper Princess
+Thoughts:
+The Graveyard Book by Neil Gaiman, and Craig P.</description>
+    </item>
+    
+    <item>
+      <title>Holiday Travel</title>
+      <link>https://mihshhehl.github.io/post/2017_01_01/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/post/2017_01_01/</guid>
+      <description>It has been a crazy week, but it was full of family, friends and ended with the start of the New Year!
+On Christmas Eve we drove up to Rochester to see my Aunt and cousins. My Aunt throws a &amp;ldquo;Chrismukkah&amp;rdquo; party, and her best friend brings her two adorable girls, her husband, and their parents. It was great to see them all again- to practice my lazy ASL and get an insight to RSL (The grandparents speak RSL and know hardly any ASL!</description>
+    </item>
+    
+    <item>
+      <title>About Shelter</title>
+      <link>https://mihshhehl.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihshhehl.github.io/about/</guid>
+      <description>My name is Michelle. Perhaps obviously, many call me SHELTER.
+My blog is just mine. I call it lifestyle, because it has no agenda. I post about what I did this week. Who I saw, what I ate, the TV I watched. I talk about my goals, and my never ending attempts at learning new things. I&amp;rsquo;ll post about Denver, HOW MUCH I LOVE IT, and the awesome, beautiful places we visit here.</description>
     </item>
     
   </channel>
