@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shelter&#39;s House</title>
-    <link>https://mihshhehl.github.io/</link>
-    <description>Recent content on Shelter&#39;s House</description>
+    <title>Blogs on Shelter&#39;s House</title>
+    <link>https://mihshhehl.github.io/blog/</link>
+    <description>Recent content in Blogs on Shelter&#39;s House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 May 2017 12:19:26 -0600</lastBuildDate>
     
-	<atom:link href="https://mihshhehl.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mihshhehl.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -410,16 +410,6 @@ The Graveyard Book by Neil Gaiman, and Craig P.</description>
       <guid>https://mihshhehl.github.io/blog/2017_01_01/</guid>
       <description>It has been a crazy week, but it was full of family, friends and ended with the start of the New Year!
 On Christmas Eve we drove up to Rochester to see my Aunt and cousins. My Aunt throws a &amp;ldquo;Chrismukkah&amp;rdquo; party, and her best friend brings her two adorable girls, her husband, and their parents. It was great to see them all again- to practice my lazy ASL and get an insight to RSL (The grandparents speak RSL and know hardly any ASL!</description>
-    </item>
-    
-    <item>
-      <title>About Shelter</title>
-      <link>https://mihshhehl.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mihshhehl.github.io/about/</guid>
-      <description>My name is Michelle. Perhaps obviously, many call me SHELTER.
-My blog is just mine. I call it lifestyle, because it has no agenda. I post about what I did this week. Who I saw, what I ate, the TV I watched. I talk about my goals, and my never ending attempts at learning new things. I&amp;rsquo;ll post about Denver, HOW MUCH I LOVE IT, and the awesome, beautiful places we visit here.</description>
     </item>
     
   </channel>
